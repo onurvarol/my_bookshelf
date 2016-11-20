@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Onur Varol's Bookshelf">
+    <meta name="author" content="Onur Varol">
+
+    <title>Onur Varol's Bookshelf</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <style type="text/css">
+        #book {
+            float: left;
+            margin:5px 0 40px 5px;
+            width: 250px;
+            height: 350px;
+            text-align:center; 
+        }
+    </style>
+
+    <script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.getJSON('bookshelf.json',
+            function (json) {
+                var bookDiv;
+                var books = json['books'];
+                for (var i = 0; i < books.length; i++) {
+                    if (!books[i].display){
+                        continue;
+                    }
+                    bookDiv = '<div class="col-md-2" id="book">';
+                    bookDiv += '<img src="' + books[i].imgsrc + '" alt="' + books[i].name + '" style="height: 250px; margin: 5px 0 0 0;" class="img-responsive img-thumbnail"> <br/>';
+                    if (books[i].hasOwnProperty('audio')){
+                        bookDiv += '&#128266; ';
+                    }
+                    bookDiv += '<b>' + books[i].name + '</b> <br/>';
+                    bookDiv += '<b>Author:</b> ' + books[i].author + '<br/>';
+                    //bookDiv += books[i].comment + '<br/>';
+                    bookDiv += '<img src="img/stars_' + books[i].score + '.png" width="100px">';
+                    bookDiv += "</div>"
+                    $('#bookshelf').append(bookDiv);
+                }
+            });
+        });
+    </script>
+  </head>
+
+  <body>
+
+    <div class="container">
+
+        <div class="alert alert-info">
+            <blockquote class="blockquote blockquote-reverse">
+              <p class="mb-0">A man will turn over half a library to make one book</p>
+              <footer class="blockquote-footer">Samuel Johnson</footer>
+            </blockquote>
+            <img class="img-responsive img-thumbnail" alt="Onur Varol" src="reading_monthly_freq.png"> 
+            <p>Some of my reading statistics <a href="reading_monthly_freq.png" target="_blank">here</a></p>
+        </div>
+
+        <div id="bookshelf" class="col-md-12">
+            
+        </div>
+    
+    </div>
+
+  </body>
+</html>    
