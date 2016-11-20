@@ -16,8 +16,8 @@
     <style type="text/css">
         #book {
             float: left;
-            margin:5px 0 40px 5px;
-            width: 250px;
+            margin:5px 0 5px 0;
+            width: 200px;
             height: 350px;
             text-align:center; 
         }
@@ -34,7 +34,7 @@
                     if (!books[i].display){
                         continue;
                     }
-                    bookDiv = '<div class="col-md-2" id="book">';
+                    bookDiv = '<div class="book" id="book">';
                     bookDiv += '<img src="' + books[i].imgsrc + '" alt="' + books[i].name + '" style="height: 250px; margin: 5px 0 0 0;" class="img-responsive img-thumbnail"> <br/>';
                     if (books[i].hasOwnProperty('audio')){
                         bookDiv += '&#128266; ';
@@ -60,11 +60,11 @@
               <p class="mb-0">A man will turn over half a library to make one book</p>
               <footer class="blockquote-footer">Samuel Johnson</footer>
             </blockquote>
-            <img class="img-responsive img-thumbnail" alt="Onur Varol" src="reading_monthly_freq.png"> 
+            <img class="img-responsive" alt="Onur Varol" src="reading_monthly_freq.png"> 
             <p>Some of my reading statistics <a href="https://github.com/onurvarol/my_bookshelf/blob/master/bookshelf_analysis.ipynb" target="_blank">here</a></p>
         </div>
 
-        <div id="bookshelf" class="col-md-12">
+        <div id="bookshelf" class="col-md-12 text-center">
             
         </div>
     
