@@ -1948,16 +1948,6 @@
     "author":"Stephen W. Hawking",
     "imgsrc":"img/uzay_zamanin_dogasi.jpeg",
     "comment":"-",
-    "date":"2004",
-    "notes":"Notlar",
-    "display":true,
-    "score":4
-  },
-  {
-    "name":"Uzay ve Zamanın Doğası",
-    "author":"Stephen W. Hawking",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/tr/3/33/Ceviz_Kabu%C4%9Fundaki_Evren.jpg",
-    "comment":"-",
     "date":"2007",
     "notes":"Notlar",
     "display":true,
@@ -2191,7 +2181,7 @@
     "comment":"-Evrensel enerjinin kullanımı ve bu sayede gerçekleşen hikayelerden oluşmuş bir eser",
     "date":"2009-06",
     "notes":"Notlar",
-    "display":true,
+    "display":false,
     "score":3
   },
   {
@@ -2201,7 +2191,7 @@
     "comment":"-Evrensel enerjinin kullanılarak şifa verme teknikleri üzerine ayrıntılı bir kitap. Yöntemleri özellikle çok iyi açıklamakta",
     "date":"2009-09",
     "notes":"Notlar",
-    "display":true,
+    "display":false,
     "score":3
   },
   {
@@ -2371,7 +2361,7 @@
     "comment":"-",
     "date":"2005",
     "notes":"Notlar",
-    "display":true,
+    "display":false,
     "score":3
   },
   {
@@ -2381,7 +2371,7 @@
     "comment":"-",
     "date":"2005",
     "notes":"Notlar",
-    "display":true,
+    "display":false,
     "score":3
   },  
   {
