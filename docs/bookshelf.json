@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"Gulliver's Travels",
+    "author":"Jonathan Swift",
+    "imgsrc":"img/Gulliver-Book.png",
+    "date":"2016-12-05",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "audio":true
+},
+{
     "name":"This Is Your Brain on Parasites",
     "author":"Kathleen McAuliffe",
     "imgsrc":"img/brain-parasites.jpg",
