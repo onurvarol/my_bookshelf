@@ -837,7 +837,7 @@
 {
     "name":"Linked",
     "author":"Albert-László Barabási",
-    "imgsrc":"linked.jpg",
+    "imgsrc":"img/linked.jpg",
     "date":"2013-03",
     "comment":"- ",
     "notes":"Notlar",
@@ -1777,7 +1777,7 @@
   {
     "name":"Brave New World",
     "author":"Aldoux Huxley",
-    "imgsrc":"BraveNewWorld.jpg",
+    "imgsrc":"img/BraveNewWorld.jpg",
     "comment":"-Huxleyin en iyi kitaplarından negatif utopya örneği olarak literaturde yer almakta",
     "date":"2008-10",
     "notes":"Notlar",
