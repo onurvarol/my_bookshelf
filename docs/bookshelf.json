@@ -9,7 +9,8 @@
     "notes":"Notlar",
     "display":true,
     "score":5,
-    "audio":true
+    "audio":true,
+    "category": ["audiobook", "novel"]
 },
 {
     "name":"This Is Your Brain on Parasites",
@@ -19,7 +20,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"The Stars My Destination",
@@ -29,7 +31,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"Master of the World",
@@ -40,7 +43,8 @@
     "notes":"Notlar",
     "display":true,
     "score":5,
-    "audio":true
+    "audio":true,
+    "category": ["novel", "audiobook"]
 },
 {
     "name":"Dönüşüm Hastanesi",
@@ -50,7 +54,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"The Wonderful Wizard of Oz",
@@ -61,7 +66,8 @@
     "notes":"Notlar",
     "display":true,
     "score":5,
-    "audio":true
+    "audio":true,
+    "category": ["novel","audiobook"]
 },
 {
     "name":"Animal Farm",
@@ -72,7 +78,8 @@
     "notes":"Notlar",
     "display":true,
     "score":5,
-    "audio":true
+    "audio":true,
+    "category": ["novel","audiobook"]
 },
 {
     "name":"His Master's Voice",
@@ -82,7 +89,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"The Word for World Is Forest",
@@ -92,7 +100,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"bolo'bolo",
@@ -102,7 +111,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["novel"]
 },
 {
     "name":"The Man in the High Castle",
@@ -112,7 +122,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Do Zombies Dream of Undead Sheep?",
@@ -122,7 +133,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Cat's Cradle",
@@ -132,7 +144,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"Slaughterhouse-Five",
@@ -142,7 +155,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"Fatal Flaws: How a Misfolded Protein Baffled Scientists and Changed the Way We Look at the Brain",
@@ -152,7 +166,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Freakonomics - The hidden side of everything",
@@ -162,7 +177,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"The Telling",
@@ -172,7 +188,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"A History of God",
@@ -182,7 +199,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Kırmızı Saçlı Kadın",
@@ -192,7 +210,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"Bakele",
@@ -202,7 +221,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"Gercek hesap bu",
@@ -212,7 +232,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
 },
 {
     "name":"Deizm",
@@ -222,7 +243,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research","türkçe"]
 },
 {
     "name":"Küçük Kara Balık",
@@ -232,7 +254,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"One human minute",
@@ -242,7 +265,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["novel"]
 },
 {
     "name":"Three-body problem",
@@ -252,7 +276,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"Antifragile",
@@ -262,7 +287,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Welcome to the Microbiome",
@@ -272,7 +298,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Gut",
@@ -282,7 +309,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"The Elements of Style",
@@ -292,7 +320,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["novel"]
 },
 {
     "name":"The Dispossessed",
@@ -302,7 +331,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"Solaris",
@@ -312,7 +342,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Fahrenheit 451",
@@ -322,7 +353,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Influence: Science and Practice",
@@ -332,7 +364,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"The Science of Consequences",
@@ -342,7 +375,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"Junk DNA",
@@ -352,7 +386,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Why Information Grows",
@@ -362,7 +397,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"The Secret Life of Pronouns",
@@ -372,7 +408,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Lies, Damn Lies and Viral Content",
@@ -382,7 +419,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"LSD, My problem child",
@@ -392,7 +430,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Moonstruck",
@@ -402,7 +441,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"The Dream and the Underworld",
@@ -412,7 +452,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":2
+    "score":2,
+    "category": ["research"]
 },
 {
     "name":"Istanbullu",
@@ -422,7 +463,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"Primitive Mythology",
@@ -432,7 +474,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"The Book of the Damned",
@@ -442,7 +485,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":2
+    "score":2,
+    "category": ["research"]
 },
 {
     "name":"The Emotion Machine",
@@ -452,7 +496,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"The Meme Machine",
@@ -462,7 +507,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Mo'nun gizemi 3 -- Ikizler",
@@ -472,7 +518,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"Mo'nun gizemi 2 -- Otran",
@@ -482,7 +529,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"Yagmurdan Sonra",
@@ -492,7 +540,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"Yarim Haziran",
@@ -502,7 +551,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"Kirmizi Bisiklet",
@@ -512,7 +562,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"Yedinci Gun",
@@ -522,7 +573,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"OD",
@@ -532,7 +584,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"Tanios Kayası",
@@ -542,7 +595,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"Kün",
@@ -552,7 +606,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
 },
 {
     "name":"Do Androids Dream of Electric Sheep?",
@@ -562,7 +617,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"The Scientific Study of Dreams: Neural Networks, Cognitive Development, and Content Analysis",
@@ -572,7 +628,8 @@
     "comment":"-",
     "notes":"Nice references for dream studies and Hall's theories",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"American Gods",
@@ -582,7 +639,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"The Grammar of Society",
@@ -592,7 +650,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Signals: Evolution, Learning & Information",
@@ -602,7 +661,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"Micromotives and Macrobehaviour",
@@ -612,7 +672,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"Neverwhere",
@@ -622,7 +683,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Honest Signal",
@@ -632,7 +694,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"Social Physics",
@@ -642,7 +705,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"Outliers: The Story of Success",
@@ -652,7 +716,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"The Process of Communication",
@@ -662,7 +727,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"The Computer and the Brain",
@@ -672,7 +738,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Tilki daha o zaman avciydi",
@@ -682,7 +749,8 @@
     "comment":"- Okumasam da olurmus",
     "notes":"Notlar",
     "display":true,
-    "score":1
+    "score":1,
+    "category": ["türkçe"]
 },
 {
     "name":"Bir Bilim Adaminin Romani - Mustafa Inan",
@@ -692,7 +760,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"Interworld 3 - Eternities Wheel",
@@ -702,7 +771,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Interworld 2 - Silver Dream",
@@ -712,7 +782,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Interworld 1",
@@ -722,7 +793,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Dream Experience",
@@ -732,7 +804,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Synchronicity",
@@ -742,7 +815,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"The Interpretation of Nature and the Psyche",
@@ -752,7 +826,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"Man and his Symbols",
@@ -762,7 +837,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Rhythms of the Brain",
@@ -772,7 +848,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Cybernetics",
@@ -782,7 +859,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"The Behavioral Persuasion in Politics",
@@ -792,7 +870,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"The Selfish Gene",
@@ -802,7 +881,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"The Information: A History, a Theory, a Flood",
@@ -812,7 +892,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Media Control",
@@ -822,7 +903,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
 },
 {
     "name":"What Do You Care What Other People Think?",
@@ -832,7 +914,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
 },
 {
     "name":"Linked",
@@ -842,7 +925,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Flatland: A Romance of Many Dimensions",
@@ -852,7 +936,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"Principles of topologicl psychology",
@@ -862,7 +947,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"A dynamic theory of personality",
@@ -872,7 +958,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Crystallizing Public Opinion",
@@ -882,7 +969,8 @@
     "comment":"- ",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Brain-Body-Mind in the Nebulous Cartesian System: A Holistic Approach by Oscillations",
@@ -892,7 +980,8 @@
     "comment":"- My discovery of this book very interesting. I read an article of author's as a somophore student. I was very interested in brain dynamics at this time and I decided to make my graduation project on EEG signal processing. Then in my first year in phD I rediscovered this paper while looking into my harddrive and decided to buy author's book. Happy to read this book.",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"The Noise and The Signal",
@@ -902,7 +991,8 @@
     "comment":"- I would like to thank YY Ahn for mentioning about FiveThirtyEight and Mike Conover for sharing this magnificant book on twitter.",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
 {
     "name":"Political Networks",
@@ -912,7 +1002,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
 },
 {
     "name":"Klingsor'un Izinde",
@@ -922,7 +1013,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
 },
 {
     "name":"The Difference",
@@ -932,7 +1024,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":2
+    "score":2,
+    "category": ["research"]
 },
 {
     "name":"The Smart Way to Your Ph.D.",
@@ -942,7 +1035,8 @@
     "comment":"-This book is gifted to all new Ph.D. students at the end of the orientation of Informatics. There are useful comments of 200 graduate students from various disciplines, which I believe very useful to me.",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
 },
 {
     "name":"Political Mind",
@@ -952,7 +1046,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
 },
  {
     "name":"Sosyal Hayvan",
@@ -962,7 +1057,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research","türkçe"]
   },
  {
     "name":"Günümüzde İnsan ve İnsanlar",
@@ -972,7 +1068,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Tanrılar Okulu",
@@ -982,7 +1079,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Amâk-ı Hayâl",
@@ -992,7 +1090,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Sosyal Psikoloji",
@@ -1002,7 +1101,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Yaşamın Anlamı",
@@ -1012,7 +1112,8 @@
     "comment":"-Fırat Civaner sayesinde tanıştıgım insan tabiatına anlam vermeye çalışan ve bu eseri ortaya çıkaran yazarla. Insan davranışları ve karakterlerinin arkasında yatan mekanizmayı anlama yolunda güzel bir eser. Ayrıca çocuk yetiştirecek herkesin okuması gerektiğini düşünüyorum.",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Kitleler psikolojisi",
@@ -1022,7 +1123,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
    {
     "name":"Quantitative Sociodynamics",
@@ -1032,7 +1134,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
  {
     "name":"Bilgi Ağacı",
@@ -1042,7 +1145,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Amat",
@@ -1052,7 +1156,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Sibernetik Toplum",
@@ -1062,8 +1167,9 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
-  },  
+    "score":4,
+    "category": ["türkçe"]
+  },
    {
     "name":"Dynamical Processes on Complex Networks",
     "author":"Alain Barrat, Marc Barthélemy, Alessandro Vespignani",
@@ -1072,7 +1178,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
  {
     "name":"Petros Amca ve Goldbach Sanısı",
@@ -1082,7 +1189,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"The Origin of Order",
@@ -1092,7 +1200,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
  {
     "name":"Rika'nın Beyninde",
@@ -1102,7 +1211,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Little Prince",
@@ -1112,7 +1222,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
   },
  {
     "name":"Hac",
@@ -1122,7 +1233,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"On Bir Dakika",
@@ -1132,7 +1244,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Piedra Irmağının Kıyısında Oturdum Ağladım",
@@ -1142,7 +1255,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Şeytan ve Genç Kadın",
@@ -1152,7 +1266,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Beşinci Dağ",
@@ -1162,7 +1277,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Elif",
@@ -1172,7 +1288,8 @@
     "comment":"-Bu kitap hakkında yazılmış güzel bir yorum için http://nurmustafaoglu.blogspot.com/2011/08/elif.html",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
 {
     "name":"Alice's Adventures in Wonderland",
@@ -1182,7 +1299,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
   },
 {
     "name":"Through the Looking-Glass",
@@ -1192,7 +1310,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["novel"]
   },
    {
     "name":"Modern Control Engineering",
@@ -1202,7 +1321,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
  {
     "name":"Işık Bahçeleri",
@@ -1212,7 +1332,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Şibumi",
@@ -1222,7 +1343,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Bilinmeyen",
@@ -1232,7 +1354,8 @@
     "date":"2011-06",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
    {
     "name":"An Introduction to System Biology",
@@ -1242,7 +1365,8 @@
     "date":"2011-06",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
   },
  {
     "name":"Sineklerin Tanrısı",
@@ -1252,7 +1376,8 @@
     "date":"2011-06",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Otomatik Piyano",
@@ -1262,7 +1387,8 @@
     "date":"2011-06",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Kaos",
@@ -1272,7 +1398,8 @@
     "date":"2011-05",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Hay bin Yakzan",
@@ -1282,7 +1409,8 @@
     "date":"2011-05",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Beynine bir kez hava değmeye görsün",
@@ -1292,7 +1420,8 @@
     "date":"2011-05",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Zahir",
@@ -1302,7 +1431,8 @@
     "date":"2011-04",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Bilim Etiği Elkitabı",
@@ -1312,7 +1442,8 @@
     "date":"2011-04",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Semerkant",
@@ -1322,7 +1453,8 @@
     "date":"2011-03",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Rüyanın öteyakası",
@@ -1332,7 +1464,8 @@
     "date":"2011-03",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Aşkın gözyaşları",
@@ -1342,7 +1475,8 @@
     "date":"2011-02",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
  {
     "name":"Babil’de Ölüm İstanbul’da Aşk",
@@ -1352,7 +1486,8 @@
     "date":"2010-11",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Zaman Yolcusunun Karısı",
@@ -1362,7 +1497,8 @@
     "date":"2010-10",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Bin Muhtesem Günes",
@@ -1372,7 +1508,8 @@
     "date":"2010-09",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Küçük Arı",
@@ -1382,7 +1519,8 @@
     "date":"2010-09",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Uçurtma Avcısı",
@@ -1392,7 +1530,8 @@
     "date":"2010-09",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"ASK",
@@ -1402,7 +1541,8 @@
     "date":"2010-09",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Yaşlandıkça hayat neden çabuk geçer",
@@ -1412,7 +1552,8 @@
     "date":"2010-08",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Puslu Kıtalar Atlası",
@@ -1422,7 +1563,8 @@
     "date":"2010-07",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Şaşırtan Varsayım",
@@ -1432,7 +1574,8 @@
     "date":"2010-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Cesur Yeni Dunyayi Ziyaret",
@@ -1442,7 +1585,8 @@
     "date":"2010-05",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
  {
     "name":"Sıra Dısı Öykü",
@@ -1452,7 +1596,8 @@
     "date":"2010-04",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
    {
     "name":"Rama ile Bulusma",
@@ -1462,7 +1607,8 @@
     "date":"2010-03",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Büyülü Ada",
@@ -1472,7 +1618,8 @@
     "date":"2009-11",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
  {
     "name":"Düsüs",
@@ -1482,7 +1629,8 @@
     "date":"2010-03",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"Yüz Yıllık Yalnızlık ",
@@ -1492,7 +1640,8 @@
     "date":"2010-02",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
  {
     "name":"EEG Signal Processing",
@@ -1502,7 +1651,8 @@
     "date":"2010-02",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["research"]
   },
   {
     "name":"Kontrbas",
@@ -1512,7 +1662,8 @@
     "date":"2010-02",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
     {
     "name":"Hipnozcu",
@@ -1522,7 +1673,8 @@
     "date":"2010-02",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Human Brain",
@@ -1532,7 +1684,8 @@
     "date":"2009-06",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["research"]
   },
   {
     "name":"Düsünmek, Ögrenmek, Unutmak",
@@ -1542,7 +1695,8 @@
     "date":"2009-05-20",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Equilibrium Statistical Physics ",
@@ -1552,7 +1706,8 @@
     "date":"2011-03",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
   {
     "name":"Mind: Introduction to Cognitive Science",
@@ -1562,7 +1717,8 @@
     "date":"2009-04",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
   {
     "name":"Mindware: An Introduction to the Philosophy of Cognitive Science",
@@ -1572,7 +1728,8 @@
     "date":"2009-03",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
   {
     "name":"Bellek metaforları",
@@ -1582,7 +1739,8 @@
     "date":"2009-09",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
     {
     "name":"Kaos",
@@ -1592,7 +1750,8 @@
     "date":"2008-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Uzman Sistemler: Bir Yapay Zeka Uygulaması ",
@@ -1602,7 +1761,8 @@
     "date":"2008-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Yapay Sinir Ağları ve Uygulamaları",
@@ -1612,7 +1772,8 @@
     "date":"2008-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Zeka",
@@ -1622,7 +1783,8 @@
     "date":"2008-05",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Bilgisayar ve Zeka Kralın Yeni Usu 1. Cilt ",
@@ -1632,7 +1794,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Fiziğin Gizemi Kralın Yeni Usu 2. Cilt  ",
@@ -1642,7 +1805,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Us Nerede? Kralın Yeni Usu 3. Cilt ",
@@ -1652,7 +1816,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"How the minds work",
@@ -1662,7 +1827,8 @@
     "date":"2008-08",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
   {
     "name":"Akıllar, Beyinler ve Bilim ",
@@ -1672,7 +1838,8 @@
     "date":"2009-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Yapay Zeka Uygulamaları",
@@ -1682,7 +1849,8 @@
     "date":"2008-08",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Totem ve Tabu",
@@ -1692,7 +1860,8 @@
     "date":"2007-09",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Olgu Öyküleri I",
@@ -1702,7 +1871,8 @@
     "date":"2007-09",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Olgu Öyküleri II",
@@ -1712,7 +1882,8 @@
     "date":"2007-09",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Rüya Yorumları",
@@ -1722,7 +1893,8 @@
     "date":"2007-10",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Aşkın Cellatı",
@@ -1732,7 +1904,8 @@
     "date":"2007-12",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Nietzsche Ağladığında",
@@ -1742,7 +1915,8 @@
     "date":"2007-01",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Divan",
@@ -1752,7 +1926,8 @@
     "date":"2007-01",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Böyle Buyurdu Zerdüşt",
@@ -1762,7 +1937,8 @@
     "date":"2007-06",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Varoluşcu Psikoterapi",
@@ -1772,7 +1948,8 @@
     "date":"2008-10",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Brave New World",
@@ -1782,7 +1959,8 @@
     "date":"2008-10",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
   },
   {
     "name":"The Doors of Perception",
@@ -1792,7 +1970,8 @@
     "date":"2008-11",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
   },
   {
     "name":"1984",
@@ -1802,7 +1981,8 @@
     "date":"2008-11",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Mutlulugun Kıyısında",
@@ -1812,7 +1992,8 @@
     "date":"2007-04",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Kelebek",
@@ -1822,7 +2003,8 @@
     "date":"2006-06",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Banko",
@@ -1832,7 +2014,8 @@
     "date":"2006-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Empati",
@@ -1842,7 +2025,8 @@
     "date":"2009-01",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Olasılıksız",
@@ -1852,7 +2036,8 @@
     "date":"2009-01",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Şeker Portakalı",
@@ -1862,7 +2047,8 @@
     "date":"2004",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Yeşil Gece",
@@ -1872,7 +2058,8 @@
     "date":"2003",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Dönüşüm",
@@ -1882,7 +2069,8 @@
     "date":"2003",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Portobello Cadısı",
@@ -1892,7 +2080,8 @@
     "date":"2008-06",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Simyacı",
@@ -1902,7 +2091,8 @@
     "date":"2008-06",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Devlet",
@@ -1912,7 +2102,8 @@
     "date":"2007-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Sokratesin Savunması",
@@ -1922,7 +2113,8 @@
     "date":"2007-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Sofienin Dünyası",
@@ -1932,7 +2124,8 @@
     "date":"2008-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Koku",
@@ -1942,7 +2135,8 @@
     "date":"2008-07",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Yüzüncü Ad",
@@ -1952,7 +2146,8 @@
     "date":"2004",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Uzay ve Zamanın Doğası",
@@ -1962,7 +2157,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Zamanın Kısa Tarihi",
@@ -1972,7 +2168,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Rölativitenin abc'si",
@@ -1982,7 +2179,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
     {
     "name":"Maddenin Son Yapıtaşları",
@@ -1992,7 +2190,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
     {
     "name":"Dünyayi Degistiren 5 Denklem",
@@ -2002,7 +2201,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Zamanın Daha Kısa Tarihi",
@@ -2012,7 +2212,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Einstein Paradoksu ve Diğer Bilimsel Gizemler",
@@ -2022,7 +2223,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
     {
     "name":"Einstein Evreninde Zaman Yolculuğu",
@@ -2032,7 +2234,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
       {
     "name":"Kuvantumu Anlamak",
@@ -2042,9 +2245,9 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
-  
   {
     "name":"Ölüm Kaşifleri",
     "author":"Bernard Werber",
@@ -2053,7 +2256,8 @@
     "date":"2006",
     "notes":"Farklı ölüm inançlarını tamamen işliyor",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Karıncalar",
@@ -2063,7 +2267,8 @@
     "date":"2006",
     "notes":"-",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Karıncaların Günü",
@@ -2073,7 +2278,8 @@
     "date":"2007",
     "notes":"-",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Karıncaların Devrimi",
@@ -2083,7 +2289,8 @@
     "date":"2007",
     "notes":"-",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Iki Sehrin Hikayesi",
@@ -2093,7 +2300,8 @@
     "date":"2005",
     "notes":"-",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Aldatma Sanatı",
@@ -2103,7 +2311,8 @@
     "date":"2008",
     "notes":"-",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Ölüm Kapısı Serisi (7)",
@@ -2113,7 +2322,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Karakılıç Serisi (4)",
@@ -2123,7 +2333,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Karakule Serisi (7)",
@@ -2133,7 +2344,8 @@
     "date":"2006",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Sakıncalı Piyade",
@@ -2143,7 +2355,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Tanrının Doğum Günü",
@@ -2153,7 +2366,8 @@
     "date":"2009-06",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Evrenin Kayboluşu",
@@ -2163,7 +2377,8 @@
     "date":"2009-04",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Last Lecture",
@@ -2173,7 +2388,8 @@
     "date":"2009-05",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
   },
   {
     "name":"İkili Sarmal",
@@ -2183,7 +2399,8 @@
     "date":"2003",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Tekrar Bağlantı",
@@ -2193,7 +2410,8 @@
     "date":"2009-06",
     "notes":"Notlar",
     "display":false,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Kuantum Dokunuş",
@@ -2203,7 +2421,8 @@
     "date":"2009-09",
     "notes":"Notlar",
     "display":false,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"C# Network Programming",
@@ -2213,7 +2432,8 @@
     "date":"2009-08",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["research"]
   },
   {
     "name":"Semantic Web",
@@ -2223,7 +2443,8 @@
     "date":"2009-09",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Algı Kapıları",
@@ -2233,7 +2454,8 @@
     "date":"2009-11",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Ecce Homo",
@@ -2243,7 +2465,8 @@
     "date":"2009-12",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Nutuk",
@@ -2253,7 +2476,8 @@
     "date":"",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Önemi olmayan küçük yanlış anlamalar",
@@ -2263,7 +2487,8 @@
     "date":"2009-12",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Harry Potter Serisi (7)",
@@ -2273,7 +2498,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"İşte Dünya",
@@ -2283,7 +2509,8 @@
     "date":"2003",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Taş Meclisi",
@@ -2293,7 +2520,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Leyleklerin Uçuşu",
@@ -2303,7 +2531,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Siyah Kan",
@@ -2313,7 +2542,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Şeytan Yemini",
@@ -2323,7 +2553,8 @@
     "date":"2007",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Da Vinci Code",
@@ -2333,7 +2564,8 @@
     "date":"2008",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["novel"]
   },
   {
     "name":"Angels and Demons",
@@ -2343,7 +2575,8 @@
     "date":"2008",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["novel"]
   },
   {
     "name":"Digital Fortress",
@@ -2353,7 +2586,8 @@
     "date":"2008",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["novel"]
   },
   {
     "name":"Deception Point",
@@ -2363,7 +2597,8 @@
     "date":"2009",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["novel"]
   },
   {
     "name":"Üçüncü Göz",
@@ -2373,7 +2608,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":false,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"İkinci Beden",
@@ -2383,8 +2619,9 @@
     "date":"2005",
     "notes":"Notlar",
     "display":false,
-    "score":3
-  },  
+    "score":3,
+    "category": ["türkçe"]
+  },
   {
     "name":"Guguk Kuşu",
     "author":"Ken Kesey",
@@ -2393,7 +2630,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Yüzüklerin Efendisi Serisi (3)",
@@ -2403,7 +2641,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Hayvan Mezarlığı",
@@ -2413,7 +2652,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Medyum",
@@ -2423,7 +2663,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Hababam Sinifi",
@@ -2433,7 +2674,8 @@
     "date":"2002",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Tılsım",
@@ -2443,7 +2685,8 @@
     "date":"2005",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Mo'nun Gizemi",
@@ -2453,7 +2696,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Yesil Kiraz Serisi (2)",
@@ -2463,7 +2707,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":3
+    "score":3,
+    "category": ["türkçe"]
   },
   {
     "name":"Sekizinci Renk",
@@ -2473,7 +2718,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Midos Kartalinin Gozleri",
@@ -2483,7 +2729,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Tunadan Ucan Kus",
@@ -2493,7 +2740,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Parbat Daginin Esrari",
@@ -2503,7 +2751,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Dunya Cocuklarin Olsa",
@@ -2513,7 +2762,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Isin Cagi Cocuklari",
@@ -2523,7 +2773,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Ben Buyuyunce",
@@ -2533,7 +2784,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Alacakaranlik Kuslari",
@@ -2543,7 +2795,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Kiyamet Cicekleri",
@@ -2553,7 +2806,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Gokyuzundeki Mor Bulutlar",
@@ -2563,7 +2817,8 @@
     "date":"2000",
     "notes":"Notlar",
     "display":true,
-    "score":4
+    "score":4,
+    "category": ["türkçe"]
   },
   {
     "name":"Bacaksiz Serisi (5)",
@@ -2573,7 +2828,8 @@
     "date":"1995",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
   },
   {
     "name":"Dorothy and the Wizard in Oz",
@@ -2584,7 +2840,8 @@
     "notes":"Notlar",
     "display":true,
     "score":4,
-    "audio":true
+    "audio":true,
+    "category": ["audiobook"]
    },
    {
     "name":"Ozma of Oz",
@@ -2595,7 +2852,8 @@
     "notes":"Notlar",
     "display":true,
     "score":4,
-    "audio":true
+    "audio":true,
+    "category": ["audiobook"]
    },
    {
     "name":"The Marvelous Land of Oz",
@@ -2606,7 +2864,8 @@
     "notes":"Notlar",
     "display":true,
     "score":4,
-    "audio":true
+    "audio":true,
+    "category": ["audiobook"]
    },
    {
     "name":"Aya Yolculuk",
@@ -2616,7 +2875,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
    },
    {
     "name":"Dünyanın Merkezine Yolculuk",
@@ -2626,7 +2886,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
    },
    {
     "name":"Denizler Altında Yirmi Bin Fersah",
@@ -2636,7 +2897,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
    },
    {
     "name":"Seksen Günde Devr-i Âlem",
@@ -2646,7 +2908,8 @@
     "comment":"-",
     "notes":"Notlar",
     "display":true,
-    "score":5
+    "score":5,
+    "category": ["türkçe"]
    }
 ]
 }
