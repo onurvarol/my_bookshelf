@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"Life on the Edge",
+    "author":"Johnjoe McFadden",
+    "imgsrc":"img/life-on-the-edge.jpg",
+    "date":"2016-12-30",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"Gulliver's Travels",
     "author":"Jonathan Swift",
     "imgsrc":"img/Gulliver-Book.png",
