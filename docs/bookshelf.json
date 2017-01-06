@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"The Machine Stops",
+    "author":"E. M. Forster",
+    "imgsrc":"img/TheMachineStops.jpg",
+    "date":"2017-01-06",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
     "name":"Life on the Edge",
     "author":"Johnjoe McFadden",
     "imgsrc":"img/life-on-the-edge.jpg",
