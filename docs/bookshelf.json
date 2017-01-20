@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"The Art of War",
+    "author":"Sun Tzu",
+    "imgsrc":"img/the-art-of-war.jpg",
+    "date":"2017-01-19",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
     "name":"What Is Life?",
     "author":"Erwin Schrödinger",
     "imgsrc":"img/what-is-life.jpg",
