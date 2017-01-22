@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"To Kill a Mockingbird",
+    "author":"Harper Lee",
+    "imgsrc":"img/to-kill-a-mockingbird.jpg",
+    "date":"2017-01-21",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"The Art of War",
     "author":"Sun Tzu",
     "imgsrc":"img/the-art-of-war.jpg",
