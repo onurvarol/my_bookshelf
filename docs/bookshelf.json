@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"The Righteous Mind: Why Good People are Divided by Politics and Religion",
+    "author":"Jonathan Haidt",
+    "imgsrc":"img/righteous-mind.jpg",
+    "date":"2017-04-29",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"The Hidden Life of Trees",
     "author":"Peter Wohlleben",
     "imgsrc":"img/hidden-life-ofl-trees.jpg",
