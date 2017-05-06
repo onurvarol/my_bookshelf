@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"The Black Cloud",
+    "author":"Fred Hoyle",
+    "imgsrc":"img/black-cloud.jpg",
+    "date":"2017-05-06",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"The Righteous Mind: Why Good People are Divided by Politics and Religion",
     "author":"Jonathan Haidt",
     "imgsrc":"img/righteous-mind.jpg",
