@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"The Dark Forest",
+    "author":"Cixin Liu",
+    "imgsrc":"img/the-dark-forest.jpg",
+    "date":"2017-07-26",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Internal Time",
     "author":"Till Roenneberg",
     "imgsrc":"img/internal-time.jpg",
