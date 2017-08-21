@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"Critical Transitions in Nature and Society",
+    "author":"Marten Scheffer",
+    "imgsrc":"img/critical-transitions.jpg",
+    "date":"2017-08-17",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"The Twenty-Four Hour Mind: The Role of Sleep and Dreaming in Our Emotional Lives",
     "author":"Rosalind Cartwright",
     "imgsrc":"img/twenty-four-hour-mind.jpg",
