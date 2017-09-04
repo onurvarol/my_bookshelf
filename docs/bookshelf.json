@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"Operating Manual for Spaceship Earth",
+    "author":"Buckminster Fuller",
+    "imgsrc":"img/operating-manual-space-earthship.jpg",
+    "date":"2017-09-04",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"Critical Transitions in Nature and Society",
     "author":"Marten Scheffer",
     "imgsrc":"img/critical-transitions.jpg",
