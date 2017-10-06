@@ -1,6 +1,17 @@
 {
 "books":[
 {
+    "name":"Death's End",
+    "author":"Cixin Liu",
+    "imgsrc":"img/deaths-end.jpg",
+    "date":"2017-10-05",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Burst",
     "author":"Laszlo Barabási",
     "imgsrc":"img/burst.jpg",
