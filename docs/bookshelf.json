@@ -2766,6 +2766,17 @@
     "category": ["türkçe"]
   },
   {
+    "name":"Kizil Nehirler",
+    "author":"Christopher Grange",
+    "imgsrc":"img/kizil-nehirler.jpeg",
+    "comment":"-",
+    "date":"2007",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["türkçe"]
+  },
+  {
     "name":"Taş Meclisi",
     "author":"Christopher Grange",
     "imgsrc":"img/tas_meclisi.jpg",
