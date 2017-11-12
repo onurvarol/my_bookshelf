@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Ishmael",
+    "author":"Daniel Quinn",
+    "imgsrc":"img/ishmael.jpg",
+    "date":"2017-11-11",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"The Honest Truth About Dishonesty",
     "author":"Dan Ariely",
     "imgsrc":"img/honest-truth.jpg",
