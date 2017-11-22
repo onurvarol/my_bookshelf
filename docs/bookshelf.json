@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Different: Escaping the Competitive Herd",
+    "author":"Youngme Moon",
+    "imgsrc":"img/different.jpg",
+    "date":"2017-11-20",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+},
+{
     "name":"Ishmael",
     "author":"Daniel Quinn",
     "imgsrc":"img/ishmael.jpg",
