@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Robot-Proof: Higher Education in the Age of Artificial Intelligence",
+    "author":"Joseph E. Aoun",
+    "imgsrc":"img/robot-proof.jpg",
+    "date":"2017-12-16",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts",
     "author":"Stanislas Dehaene",
     "imgsrc":"img/consciousness_and_brain.jpg",
