@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Seasons of Life",
+    "author":"Russell Foster and Leon Kreitzman",
+    "imgsrc":"img/seasons_of_life.jpg",
+    "date":"2017-12-22",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"Robot-Proof: Higher Education in the Age of Artificial Intelligence",
     "author":"Joseph E. Aoun",
     "imgsrc":"img/robot-proof.jpg",
