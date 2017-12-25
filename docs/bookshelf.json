@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Living Clock",
+    "author":"John D. Palmer",
+    "imgsrc":"img/living-clock.jpg",
+    "date":"2017-12-25",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"Seasons of Life",
     "author":"Russell Foster and Leon Kreitzman",
     "imgsrc":"img/seasons_of_life.jpg",
