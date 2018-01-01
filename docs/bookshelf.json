@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Siddhartha",
+    "author":"Hermann Hesse",
+    "imgsrc":"img/siddhartha.jpg",
+    "date":"2018-01-01",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"The Living Clock",
     "author":"John D. Palmer",
     "imgsrc":"img/living-clock.jpg",
