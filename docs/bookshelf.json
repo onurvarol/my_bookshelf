@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Hallucinations",
+    "author":"Oliver Sacks",
+    "imgsrc":"img/hallucinations.jpg",
+    "date":"2018-02-04",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"Why We Sleep: The New Science of Sleep and Dreams",
     "author":"Matthew Walker",
     "imgsrc":"img/why-we-sleep.jpg",
