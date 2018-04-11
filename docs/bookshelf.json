@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Behave: The Biology of Humans at Our Best and Worst",
+    "author":"Robert Sapolsky",
+    "imgsrc":"img/behave.jpg",
+    "date":"2018-04-11",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"Hallucinations",
     "author":"Oliver Sacks",
     "imgsrc":"img/hallucinations.jpg",
