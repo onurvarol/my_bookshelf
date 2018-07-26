@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"How to Change Your Mind",
+    "author":"Michael Pollan",
+    "imgsrc":"img/how-to-change-your-mind.jpg",
+    "date":"2018-07-26",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+},
+{
     "name":"The Harvard Psychedelic Club",
     "author":"Don Lattin",
     "imgsrc":"img/harvard-psychedelic-club.jpg",
