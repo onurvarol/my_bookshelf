@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Book of Why",
+    "author":"Judea Pearl",
+    "imgsrc":"img/the-book-of-why.jpg",
+    "date":"2018-12-10",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"The Formula: The Universal Laws of Success",
     "author":"Albert-László Barabási",
     "imgsrc":"img/the-formula.jpg",
