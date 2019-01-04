@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Phi: A Voyage from the Brain to the Soul",
+    "author":"Giulio Tononi",
+    "imgsrc":"img/phi.jpg",
+    "date":"2019-01-03",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+},
+{
     "name":"The Professor Is In: The Essential Guide To Turning Your Ph.D. Into a Job",
     "author":"Karen Kelsky",
     "imgsrc":"img/The_Professor_Is_In.jpg",
