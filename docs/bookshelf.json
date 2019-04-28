@@ -1,6 +1,39 @@
 { 
 "books":[
 {
+    "name":"Good Omens",
+    "author":"Neil Gaiman, Terry Pratchett",
+    "imgsrc":"img/good-omens.png",
+    "date":"2019-04-28",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
+    "name":"Dream Consciousness: Allan Hobson’s New Approach to the Brain and Its Mind",
+    "author":"Allan Hobson",
+    "imgsrc":"img/dream-consciousness.jpg",
+    "date":"2019-02-26",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
+    "name":"Neuromancer",
+    "author":"William Gibson",
+    "imgsrc":"img/neuromancer.jpg",
+    "date":"2019-02-06",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness",
     "author":"Peter Godfrey-Smith",
     "imgsrc":"img/other-minds.jpg",
