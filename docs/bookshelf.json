@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Prince",
+    "author":"Niccolo Machiavelli",
+    "imgsrc":"img/prince.jpg",
+    "date":"2019-07-07",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel"]
+},
+{
     "name":"Sapiens: A Brief History of Humankind",
     "author":"Yuval Noah Harari",
     "imgsrc":"img/sapiens.jpg",
