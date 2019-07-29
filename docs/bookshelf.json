@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Ball Lightning",
+    "author":"Cixin Liu",
+    "imgsrc":"img/ball-lightning.jpg",
+    "date":"2019-07-29",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
     "name":"The Prince",
     "author":"Niccolo Machiavelli",
     "imgsrc":"img/prince.jpg",
