@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Nefha",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/nefha.jpg",
+    "date":"2019-11-29",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"The Botany of Desire: A Plant's-Eye View of the World",
     "author":"Michael Pollan",
     "imgsrc":"img/botany-of-desire.jpg",
