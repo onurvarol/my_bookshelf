@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"My Ishmael",
+    "author":"Daniel Quinn",
+    "imgsrc":"img/my-ishmael.jpg",
+    "date":"2019-12-07",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Nefha",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/nefha.jpg",
@@ -9,7 +20,7 @@
     "notes":"Notlar",
     "display":true,
     "score":5,
-    "category": ["novel"]
+    "category": ["novel","türkçe"]
 },
 {
     "name":"The Botany of Desire: A Plant's-Eye View of the World",
