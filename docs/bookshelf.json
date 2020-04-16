@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Networks of the Brain",
+    "author":"Olaf Sporns",
+    "imgsrc":"img/networks-of-the-brain.jpg",
+    "date":"2020-04-16",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"Charting the Next Pandemic",
     "author":"Mobs Lab",
     "imgsrc":"img/next-pandemic.jpg",
