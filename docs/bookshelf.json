@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Exhalation: Stories",
+    "author":"Ted Chiang",
+    "imgsrc":"img/exhalation.jpg",
+    "date":"2020-04-30",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Foundational Concepts in Neuroscience",
     "author":"David E. Presti",
     "imgsrc":"img/foundational-concepts-in-neuroscience.jpeg",
