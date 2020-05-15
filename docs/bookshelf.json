@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Life 3.0: Being Human in the Age of Artificial Intelligence",
+    "author":"Max Tegmark",
+    "imgsrc":"img/life3.jpg",
+    "date":"2020-05-15",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"Exhalation: Stories",
     "author":"Ted Chiang",
     "imgsrc":"img/exhalation.jpg",
@@ -1602,7 +1613,7 @@
 {
     "name":"Crystallizing Public Opinion",
     "author":"Edward L. Beynays",
-    "imgsrc":"http://www.unz.org/CoverThumb/BernaysEdward-1924.jpg",
+    "imgsrc":"img/CrystallizingPublicOpinion.jpg",
     "date":"2013-01",
     "comment":"- ",
     "notes":"Notlar",
@@ -1822,7 +1833,7 @@
  {
     "name":"Petros Amca ve Goldbach Sanısı",
     "author":"Apostolos Doxiadis",
-    "imgsrc":"http://www.pandora.com.tr/images/kapak/67735.jpg",
+    "imgsrc":"img/petros-amca.jpg",
     "date":"2011-09",
     "comment":"-",
     "notes":"Notlar",
@@ -1888,7 +1899,7 @@
  {
     "name":"Piedra Irmağının Kıyısında Oturdum Ağladım",
     "author":"Paulo Coelho",
-    "imgsrc":"http://www.kitapokuyoruz.com/kapak/1354-Piedra-Irmaginin-Kiyisinda-Oturdum-Agladim.jpg",
+    "imgsrc":"img/piedra-irmagi.jpg",
     "date":"2011-09",
     "comment":"-",
     "notes":"Notlar",
@@ -2075,7 +2086,7 @@
  {
     "name":"Bilim Etiği Elkitabı",
     "author":"Ayşe Erzan, Yucel Yilmaz, Gürol Irzık, Aslıhan Tolun, Ali İ. Tekcan, Emine Kansu, Şevket Ruacan",
-    "imgsrc":"http://www.pandora.com.tr/images/kapak/195725b.jpg",
+    "imgsrc":"img/bilim-etigi.jpeg",
     "comment":"- Ayse Hocanin okumam icin verdigi ve onemli notlar aldigim fayda sagladigim bir kitap. Muhakkak okunmasini oneririm.",
     "date":"2011-04",
     "notes":"Notlar",
@@ -2163,7 +2174,7 @@
  {
     "name":"Uçurtma Avcısı",
     "author":"Khaled Hosseini",
-    "imgsrc":"http://www.kitapokuyoruz.com/kapak/488-Ucurtma-Avcisi.jpg",
+    "imgsrc":"img/ucurtma-avcisi.jpg",
     "comment":"-Afganistanın değişen yüzünü, çocukluk hatalarının ve gelecekte yaşanan pişmanlıkların yaşam üzerindeki etkilerini duygu yüklü bir şekilde anlatmakta olan harika bir kitap",
     "date":"2010-09",
     "notes":"Notlar",
@@ -2647,7 +2658,7 @@
   {
     "name":"Banko",
     "author":"Henri Charriere",
-    "imgsrc":"http://www.kitapokuyoruz.com/kapak/1597-Banko.jpg",
+    "imgsrc":"img/banko.jpg",
     "comment":"-Suçsuz yere hapis yatan ve intikam hırsıyla sürekli kaçmaya çabalayan yazarın kelebekten sonraki 2ci kitabı burada özgürlüğünü elde ettikten sonra başından gelenleri anlatıyor",
     "date":"2006-07",
     "notes":"Notlar",
@@ -2713,7 +2724,7 @@
   {
     "name":"Portobello Cadısı",
     "author":"Paulo Coelho  ",
-    "imgsrc":"http://www.kitapokuyoruz.com/kapak/1353-Portobello-Cadisi.jpg",
+    "imgsrc":"img/portobello-cadisi.jpg",
     "comment":"-",
     "date":"2008-06",
     "notes":"Notlar",
@@ -2889,7 +2900,7 @@
   {
     "name":"Ölüm Kaşifleri",
     "author":"Bernard Werber",
-    "imgsrc":"http://www.pandora.com.tr/images/kapak/101778.jpg",
+    "imgsrc":"img/olum-kasifleri.jpg",
     "comment":"-Ölüm üzerine ve merak edilen tüm yönlerini konu alan bilimsel alıntılarla zenginleştirilmiş süper bir kitap",
     "date":"2006",
     "notes":"Farklı ölüm inançlarını tamamen işliyor",
@@ -2944,7 +2955,7 @@
   {
     "name":"Aldatma Sanatı",
     "author":"Kevin D. Mitnick",
-    "imgsrc":"http://www.saykitap.com/BSWEB/images/kitap/24980.jpg",
+    "imgsrc":"img/aldatma-sanati.jpg",
     "comment":"-Bir sisteme girmenin en iyi yolunun insanlardan kaynaklanan hatalar oldugunu açıklayan ve örneklendiren meshur bir hackerın kitabı",
     "date":"2008",
     "notes":"-",
