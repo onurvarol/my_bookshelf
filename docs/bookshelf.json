@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Entangled Minds",
+    "author":"Dean Radin",
+    "imgsrc":"img/entangled-minds.jpg",
+    "date":"2020-05-23",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":false,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"Life 3.0: Being Human in the Age of Artificial Intelligence",
     "author":"Max Tegmark",
     "imgsrc":"img/life3.jpg",
