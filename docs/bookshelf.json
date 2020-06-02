@@ -7,7 +7,7 @@
     "date":"2020-05-28",
     "comment":"-",
     "notes":"Notlar",
-    "display":false,
+    "display":true,
     "score":5,
     "category": ["research"]
 },
