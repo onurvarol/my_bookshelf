@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Case Against Reality",
+    "author":"Donald D. Hoffman",
+    "imgsrc":"img/case-against-reality.png",
+    "date":"2020-06-07",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+},
+{
     "name":"Bit By Bit",
     "author":"Matt Salganic",
     "imgsrc":"img/bit-by-bit.jpg",
