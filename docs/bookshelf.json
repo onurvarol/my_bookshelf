@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"The Story of B",
+    "author":"Daniel Quinn",
+    "imgsrc":"img/TheStoryOfB.jpg",
+    "date":"2020-09-08",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
+    "name":"The Last President",
+    "author":"Ingersoll lockwood",
+    "imgsrc":"img/",
+    "date":"2020-07-07",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":false,
+    "score":3,
+    "category": ["novel"]
+},
+{
     "name":"The Case Against Reality",
     "author":"Donald D. Hoffman",
     "imgsrc":"img/case-against-reality.png",
