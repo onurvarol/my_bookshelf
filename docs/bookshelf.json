@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Bir Universite Var Ederken",
+    "author":"Guler Sabanci",
+    "imgsrc":"img/bir-universite-var-ederken.jpg",
+    "date":"2020-10-04",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel","türkçe"]
+},
+{
     "name":"The Story of B",
     "author":"Daniel Quinn",
     "imgsrc":"img/TheStoryOfB.jpg",
