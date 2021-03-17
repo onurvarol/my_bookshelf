@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Golden Compass",
+    "author":"Philip Pullman",
+    "imgsrc":"img/golden-compass.jpg",
+    "date":"2020-03-17",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Bir Universite Var Ederken",
     "author":"Guler Sabanci",
     "imgsrc":"img/bir-universite-var-ederken.jpg",
