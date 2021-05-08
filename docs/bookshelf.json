@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"What is your pronoun?",
+    "author":"Dennis Barron",
+    "imgsrc":"img/whats-your-pronoun.jpg",
+    "date":"2021-05-08",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+},
+{
     "name":"The Science Of Storytelling",
     "author":"Will Storr",
     "imgsrc":"img/science-of-storytelling.jpg",
