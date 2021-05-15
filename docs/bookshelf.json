@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Subtle Knife",
+    "author":"Philip Pullman",
+    "imgsrc":"img/subtle-knife.jpg",
+    "date":"2021-05-14",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"What is your pronoun?",
     "author":"Dennis Barron",
     "imgsrc":"img/whats-your-pronoun.jpg",
