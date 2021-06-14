@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Amber Spyglass",
+    "author":"Philip Pullman",
+    "imgsrc":"img/amber-spyglass.jpg",
+    "date":"2021-06-13",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"MOMO",
     "author":"Michael Ende",
     "imgsrc":"img/momo.jpeg",
