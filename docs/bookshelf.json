@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"The Psychology of Conspiracy Theories",
+    "author":"Jan-Willem van Prooijen",
+    "imgsrc":"img/psychology-of-conspiracy-theories.jpg",
+    "date":"2021-08-12",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"The Amber Spyglass",
     "author":"Philip Pullman",
     "imgsrc":"img/amber-spyglass.jpg",
