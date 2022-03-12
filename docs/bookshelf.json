@@ -1,6 +1,50 @@
 { 
 "books":[
 {
+    "name":"Jean Baudrillard",
+    "author":"Simulacra and Simulation",
+    "imgsrc":"img/simulacra-simulation.jpg",
+    "date":"2022-03-13",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+},
+{
+    "name":"Yanardagin Yankisi",
+    "author":"Gulten Dayioglu",
+    "imgsrc":"img/yanardagin-yankisi.jpg",
+    "date":"2022-03-12",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Milli Görüş İktidarı: Niçin ve Nasıl",
+    "author":"Necmettin Erbakan",
+    "imgsrc":"img/milli-gorus.jpeg",
+    "date":"2022-01-11",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":false,
+    "score":3,
+    "category": ["türkçe"]
+},
+{
+    "name":"Hayatın Mucizeleri",
+    "author":"Stefan Zweig",
+    "imgsrc":"img/hayatin-mucizeleri.jpeg",
+    "date":"2021-12-25",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Onlar Göçtü Buradan",
     "author":"Evrim Kuran",
     "imgsrc":"img/onlar-goctu-buradan.png",
