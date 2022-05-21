@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"brain & music",
+    "author":"Stefan Koelsch",
+    "imgsrc":"img/brain-and-music.jpg",
+    "date":"2022-05-21",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
+    "name":"The Origins of Creativity",
+    "author":"Edward O. Wilson",
+    "imgsrc":"img/origins-of-creativity.jpg",
+    "date":"2022-04-24",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"Jean Baudrillard",
     "author":"Simulacra and Simulation",
     "imgsrc":"img/simulacra-simulation.jpg",
@@ -1899,7 +1921,7 @@
  {
     "name":"Sosyal Hayvan",
     "author":"David Brooks",
-    "imgsrc":"http://static.ideefixe.com/images/375/375556_2.jpg",
+    "imgsrc":"img/sosyal-hayvan.jpg",
     "date":"2012-05",
     "comment":"-",
     "notes":"Notlar",
@@ -1910,7 +1932,7 @@
  {
     "name":"Günümüzde İnsan ve İnsanlar",
     "author":"Çiğdem Kağıtçıbaşı",
-    "imgsrc":"http://static.ideefixe.com/images/304/304559_2.jpg",
+    "imgsrc":"img/insan-ve-insanlar.jpg",
     "date":"2012-03",
     "comment":"-",
     "notes":"Notlar",
@@ -1954,7 +1976,7 @@
  {
     "name":"Yaşamın Anlamı",
     "author":"Alfred Adler",
-    "imgsrc":"http://static.ideefixe.com/images/339/339742_2.jpg",
+    "imgsrc":"img/yasamin-anlami.jpg",
     "date":"2012-01",
     "comment":"-Fırat Civaner sayesinde tanıştıgım insan tabiatına anlam vermeye çalışan ve bu eseri ortaya çıkaran yazarla. Insan davranışları ve karakterlerinin arkasında yatan mekanizmayı anlama yolunda güzel bir eser. Ayrıca çocuk yetiştirecek herkesin okuması gerektiğini düşünüyorum.",
     "notes":"Notlar",
@@ -1965,7 +1987,7 @@
  {
     "name":"Kitleler psikolojisi",
     "author":"Gustav Le Bon",
-    "imgsrc":"http://static.ideefixe.com/images/55/55619_2.jpg",
+    "imgsrc":"img/kitleler-psikolojisi.jpg",
     "date":"2011-12",
     "comment":"-",
     "notes":"Notlar",
@@ -2009,7 +2031,7 @@
  {
     "name":"Sibernetik Toplum",
     "author":"Frederic Vester",
-    "imgsrc":"http://static.ideefixe.com/images/59/59178_1.jpg",
+    "imgsrc":"img/sibernetik-toplum.jpg",
     "date":"2011-11",
     "comment":"-",
     "notes":"Notlar",
@@ -2053,7 +2075,7 @@
  {
     "name":"Rika'nın Beyninde",
     "author":"Levent Mete",
-    "imgsrc":"http://static.ideefixe.com/images/175/175946_2.jpg",
+    "imgsrc":"img/rikanin-beyninde.jpg",
     "date":"2011-09",
     "comment":"-",
     "notes":"Notlar",
@@ -2075,7 +2097,7 @@
  {
     "name":"Hac",
     "author":"Paulo Coelho",
-    "imgsrc":"http://static.ideefixe.com/images/245/245672_2.jpg",
+    "imgsrc":"img/hac.jpg",
     "date":"2011-09",
     "comment":"-",
     "notes":"Notlar",
@@ -2108,7 +2130,7 @@
  {
     "name":"Şeytan ve Genç Kadın",
     "author":"Paulo Coelho",
-    "imgsrc":"http://static.ideefixe.com/images/91/91243_2.jpg",
+    "imgsrc":"img/seytan-ve-genc-kadin.jpg",
     "date":"2011-08",
     "comment":"-",
     "notes":"Notlar",
@@ -2174,7 +2196,7 @@
  {
     "name":"Işık Bahçeleri",
     "author":"Amin Maalouf",
-    "imgsrc":"http://static.ideefixe.com/images/151/151530_2.jpg",
+    "imgsrc":"img/isik-bahceleri.jpg",
     "date":"2011-08",
     "comment":"-",
     "notes":"Notlar",
@@ -2185,7 +2207,7 @@
  {
     "name":"Şibumi",
     "author":"Trevanian",
-    "imgsrc":"http://static.ideefixe.com/images/30/30724_2.jpg",
+    "imgsrc":"img/sibumi.jpg",
     "date":"2011-07",
     "comment":"-",
     "notes":"Notlar",
@@ -2196,7 +2218,7 @@
  {
     "name":"Bilinmeyen",
     "author":"Joshua Ferris",
-    "imgsrc":"http://static.ideefixe.com/images/342/342149_2.jpg",
+    "imgsrc":"img/bilinmeyen.jpg",
     "comment":"-",
     "date":"2011-06",
     "notes":"Notlar",
@@ -2240,7 +2262,7 @@
  {
     "name":"Kaos",
     "author":"Iwona Abrams, Ziauddin Sardar",
-    "imgsrc":"http://static.ideefixe.com/images/339/339780_2.jpg",
+    "imgsrc":"img/kaos.jpg",
     "comment":"-",
     "date":"2011-05",
     "notes":"Notlar",
@@ -2251,7 +2273,7 @@
  {
     "name":"Hay bin Yakzan",
     "author":"İbn Sina / İbn Tufeyl",
-    "imgsrc":"http://static.ideefixe.com/images/27/27118_2.jpg",
+    "imgsrc":"img/haybin-yakzan.jpg",
     "comment":"-",
     "date":"2011-05",
     "notes":"Notlar",
@@ -2262,7 +2284,7 @@
  {
     "name":"Beynine bir kez hava değmeye görsün",
     "author":"Dr. Frank Vertosick Jr.",
-    "imgsrc":"http://static.ideefixe.com/images/149/149947_2.jpg",
+    "imgsrc":"img/beyin-hava-gorsun.jpg",
     "comment":"-",
     "date":"2011-05",
     "notes":"Notlar",
@@ -2427,7 +2449,7 @@
  {
     "name":"Cesur Yeni Dunyayi Ziyaret",
     "author":"Aldous Huxley",
-    "imgsrc":"http://static.ideefixe.com/images/84/84781_2.jpg",
+    "imgsrc":"img/cesur-yeni-dunya.jpg",
     "comment":"-Cesur yeni dünyada kurgulananlara yönelik bir geri besleme niteligi tasimakta. Burada utopik bir dunya için modern dunyanin neler yapmakta oldugu. Beyin yikama, kimyasallar bilinç altı mesajları nasıl kullanılmakta anlatılmaya çalısılıyor.",
     "date":"2010-05",
     "notes":"Notlar",
@@ -2438,7 +2460,7 @@
  {
     "name":"Sıra Dısı Öykü",
     "author":"Michel Butor",
-    "imgsrc":"http://static.ideefixe.com/images/304/304222.gif",
+    "imgsrc":"img/sira-disi-oyku.jpg",
     "comment":"-Yazar bir ünlü bir yazarın rüyasını kelime kelime analiz ederek hayatı ve eserleri ile iliski kurmaktadır bu nedenle ilginc bir deneme tarzında yazılmıs eser",
     "date":"2010-04",
     "notes":"Notlar",
