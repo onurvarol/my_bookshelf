@@ -1,6 +1,50 @@
 { 
 "books":[
 {
+    "name":"Kendine Ait Bir Oda",
+    "author":"Virginia Woolf",
+    "imgsrc":"img/kendine-ait-bir-oda.jpg",
+    "date":"2022-07-04",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Komünist Manifesto",
+    "author":"Karl Marx - Friedrich Engels",
+    "imgsrc":"img/komunist-manifesto.jpg",
+    "date":"2022-06-28",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Mutsuzluk",
+    "author":"Franz Kafka",
+    "imgsrc":"img/mutsuzluk.jpg",
+    "date":"2022-06-20",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Aforizmalar",
+    "author":"Franz Kafka",
+    "imgsrc":"img/aforizmalar.jpg",
+    "date":"2022-05-23",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":2,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"brain & music",
     "author":"Stefan Koelsch",
     "imgsrc":"img/brain-and-music.jpg",
