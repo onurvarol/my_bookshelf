@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Bir Tayyarecinin Anıları",
+    "author":"Vecihi Hürkuş",
+    "imgsrc":"img/vecihi-hurkus.jpg",
+    "date":"2022-11-15",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
+    "name":"Görünmez Koleksiyon Unutulmuş Düşler ve Karda",
+    "author":"Stefan Zweig",
+    "imgsrc":"img/zweig-karda.jpg",
+    "date":"2022-09-25",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"The Structure of Scientific Revolutions",
     "author":"Thomas Kuhn",
     "imgsrc":"img/structure-of-scientific-revolutions.jpg",
