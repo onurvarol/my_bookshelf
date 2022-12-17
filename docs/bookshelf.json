@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Uzunharmanlarda bir davetsiz misafir",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/uzunharmanlarda-bir-davetsiz-misafir.png",
+    "date":"2022-11-17",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Bir Tayyarecinin Anıları",
     "author":"Vecihi Hürkuş",
     "imgsrc":"img/vecihi-hurkus.jpg",
@@ -1844,7 +1855,7 @@
 {
     "name":"The Information: A History, a Theory, a Flood",
     "author":"James Gleick",
-    "imgsrc":"http://around.com/wordpress/wp-content/uploads/US-paperback2.jpg",
+    "imgsrc":"img/information-gleick.jpg",
     "date":"2013-07",
     "comment":"- ",
     "notes":"Notlar",
@@ -2581,7 +2592,7 @@
  {
     "name":"Düsüs",
     "author":"Albert Camus",
-    "imgsrc":"http://static.ideefixe.com/images/51/51252_2.jpg",
+    "imgsrc":"img/dusus-camus.jpg",
     "comment":"-Cok basarili biri olan anlatıcının hayatındaki hatalarla yuzlesmesini ve içsel hesaplamayı çok iyi bir dille anlatan kitap.",
     "date":"2010-03",
     "notes":"Notlar",
@@ -2647,7 +2658,7 @@
   {
     "name":"Düsünmek, Ögrenmek, Unutmak",
     "author":"Frederic Vester",
-    "imgsrc":"http://static.ideefixe.com/images/37/37092_2.jpg",
+    "imgsrc":"img/dusunmek-ogrenmek-unutmak.jpg",
     "comment":"-Norofizyoloji ile alakalı belleğin nasıl çalıştığını açıklamya çalışan daha çok hücresel boyutta kavramları açıklayan güzel bir kitap ",
     "date":"2009-05-20",
     "notes":"Notlar",
@@ -2724,7 +2735,7 @@
   {
     "name":"Yapay Sinir Ağları ve Uygulamaları",
     "author":"Önder Efe",
-    "imgsrc":"http://kapak.netkitap.com/170zk/2/06020328.jpg",
+    "imgsrc":"img/ysa-onderefe.jpg",
     "comment":"-Yapay Sinir ağları hakkında matematiksel modeli ve ağ oluşturulması üzerine yazılmış bir kitap",
     "date":"2008-07",
     "notes":"Notlar",
@@ -2735,7 +2746,7 @@
   {
     "name":"Zeka",
     "author":"Pierre Oleron",
-    "imgsrc":"http://kapak.netkitap.com/075bk/Z/zek%C3%A2_18102.jpg",
+    "imgsrc":"img/zeka-oleron.jpg",
     "comment":"-",
     "date":"2008-05",
     "notes":"Notlar",
@@ -2744,31 +2755,9 @@
     "category": ["türkçe"]
   },
   {
-    "name":"Bilgisayar ve Zeka Kralın Yeni Usu 1. Cilt ",
+    "name":"Kralın Yeni Usu Serisi (3)",
     "author":"Roger Penrose",
-    "imgsrc":"img/bilgisayar_ve_zeka_kralin_yeni_usu_1.jpg",
-    "comment":"-",
-    "date":"2006",
-    "notes":"Notlar",
-    "display":true,
-    "score":4,
-    "category": ["türkçe"]
-  },
-  {
-    "name":"Fiziğin Gizemi Kralın Yeni Usu 2. Cilt  ",
-    "author":"Roger Penrose",
-    "imgsrc":"http://static.ideefixe.com/images/61/61329_2.jpg",
-    "comment":"-",
-    "date":"2006",
-    "notes":"Notlar",
-    "display":true,
-    "score":4,
-    "category": ["türkçe"]
-  },
-  {
-    "name":"Us Nerede? Kralın Yeni Usu 3. Cilt ",
-    "author":"Roger Penrose",
-    "imgsrc":"http://static.ideefixe.com/images/67/67768_2.jpg",
+    "imgsrc":"img/kralin-yeni-usu.jpg",
     "comment":"-",
     "date":"2006",
     "notes":"Notlar",
@@ -2790,7 +2779,7 @@
   {
     "name":"Akıllar, Beyinler ve Bilim ",
     "author":"John Searle",
-    "imgsrc":"http://static.ideefixe.com/images/32/32036_2.jpg",
+    "imgsrc":"img/akillar-beyinler-bilim.jpg",
     "comment":"-Beyin, düşünce, varlık bilinci üzerine çin odası deneyinide öneren yazarın kendine güvenen güçlü bir diller yazdığı bir kitap",
     "date":"2009-07",
     "notes":"Notlar",
@@ -2812,7 +2801,7 @@
   {
     "name":"Totem ve Tabu",
     "author":"Sigmund Freud",
-    "imgsrc":"http://static.ideefixe.com/images/292/292708_2.jpg",
+    "imgsrc":"img/totem-ve-tabu.jpg",
     "comment":"-İnsanların bilinç altındaki yasaklar ve tabularının kişilik üzerine etkisini ve toplumların kültürlerinin bundaki etkisine değinen güzel bir kitap.",
     "date":"2007-09",
     "notes":"Notlar",
@@ -2823,7 +2812,7 @@
   {
     "name":"Olgu Öyküleri I",
     "author":"Sigmund Freud",
-    "imgsrc":"http://static.ideefixe.com/images/60/60504_2.jpg",
+    "imgsrc":"img/olgu-oykuleri.jpg",
     "comment":"-Farklı psikanaliz vakalarını inceleyen ve bunların nedenlerini inceleyen güzel bir çalışmalar topluluğu. Küçük Hans hikayesi ve daha pek çok önemli kavramı bu kitabında işliyor.",
     "date":"2007-09",
     "notes":"Notlar",
@@ -2834,7 +2823,7 @@
   {
     "name":"Olgu Öyküleri II",
     "author":"Sigmund Freud",
-    "imgsrc":"http://static.ideefixe.com/images/40/40474_2.jpg",
+    "imgsrc":"img/olgu-oykuleri-2.jpg",
     "comment":"-Farklı psikanaliz vakalarını inceleyen ve bunların nedenlerini inceleyen güzel bir çalışmalar topluluğu. İlk kitabın devamı niteliğinde",
     "date":"2007-09",
     "notes":"Notlar",
@@ -2843,9 +2832,9 @@
     "category": ["türkçe"]
   },
   {
-    "name":"Rüya Yorumları",
+    "name":"Ruyalarin Yorumu",
     "author":"Sigmund Freud",
-    "imgsrc":"http://static.ideefixe.com/images/292/292709_2.jpg",
+    "imgsrc":"img/ruyalarin-yorumu.jpg",
     "comment":"-Kişilerin bilinç altının yansıması olan rüyaların prikanaliz sonucu Freudcu yaklaşımla incelenmesine dair güzel bir kitap",
     "date":"2007-10",
     "notes":"Notlar",
@@ -2856,7 +2845,7 @@
   {
     "name":"Aşkın Cellatı",
     "author":"Irvine Yalom",
-    "imgsrc":"http://static.ideefixe.com/images/40/40999_2.jpg",
+    "imgsrc":"img/askin-celladi.jpg",
     "comment":"-Aşkın celladı farklı ilişkilerin psikanaliz yorumu ve analizini Freudcu bir yaklaşımla inceleyen olay öykülerinden oluşan bir derleme",
     "date":"2007-12",
     "notes":"Notlar",
@@ -2878,7 +2867,7 @@
   {
     "name":"Divan",
     "author":"Irvine Yalom",
-    "imgsrc":"http://static.ideefixe.com/images/57/57844_2.jpg",
+    "imgsrc":"img/divan-yalom.png",
     "comment":"-Irvin Yalomun güzel kurgusuyla psikaliz öykülerinden olusuyor.",
     "date":"2007-01",
     "notes":"Notlar",
@@ -2900,7 +2889,7 @@
   {
     "name":"Varoluşcu Psikoterapi",
     "author":"Irvin Yalom",
-    "imgsrc":"http://static.ideefixe.com/images/66/66134_2.jpg",
+    "imgsrc":"img/varoluscu-psikoterapi.jpg",
     "comment":"-",
     "date":"2008-10",
     "notes":"Notlar",
@@ -3054,7 +3043,7 @@
   {
     "name":"Devlet",
     "author":"Platon",
-    "imgsrc":"http://static.ideefixe.com/images/250/250598_2.jpg",
+    "imgsrc":"img/devlet-platon.jpg",
     "comment":"-Çok güzel bir sosyoloji eseri. Yuzyıllar önce yazılmış olup bugunde devlet işleyişi ve toplumsal yaşamı yorumlamada faydalanılabilecek bir eser",
     "date":"2007-07",
     "notes":"Notlar",
@@ -3065,7 +3054,7 @@
   {
     "name":"Sokratesin Savunması",
     "author":"Platon",
-    "imgsrc":"http://static.ideefixe.com/images/145/145644_2.jpg",
+    "imgsrc":"img/sokratesin-savunmasi.jpg",
     "comment":"-Sokratesin yargılanmasında konusulanların ve savundugu tezlerin son saatlerinin anlatıldığı eser",
     "date":"2007-07",
     "notes":"Notlar",
@@ -3087,7 +3076,7 @@
   {
     "name":"Koku",
     "author":"Patrick Süskind",
-    "imgsrc":"http://static.ideefixe.com/images/30/30259_2.jpg",
+    "imgsrc":"img/koku-suskind.jpg",
     "comment":"-Paris sokaklarında çöpler arasında doğan bir çocugun o kıymetsiz yaşamını yaptığı parfumlerla nasıl kazandığı olağanustu bir koku duyusu olmasına rağmen kendine ait bir kokusu olmaması üzerine kurulu bir eser ",
     "date":"2008-07",
     "notes":"Notlar",
@@ -3098,7 +3087,7 @@
   {
     "name":"Yüzüncü Ad",
     "author":"Amin Maalouf",
-    "imgsrc":"http://www.pegem.net/resim/urun/31332200.jpg",
+    "imgsrc":"img/yuzuncu-ad.jpg",
     "comment":"-",
     "date":"2004",
     "notes":"Notlar",
@@ -3120,7 +3109,7 @@
   {
     "name":"Zamanın Kısa Tarihi",
     "author":"Stephen W. Hawking",
-    "imgsrc":"http://static.ideefixe.com/images/23/23141_2.jpg",
+    "imgsrc":"img/zamaninkisatarihi.png",
     "comment":"-",
     "date":"2006",
     "notes":"Notlar",
@@ -3142,7 +3131,7 @@
     {
     "name":"Maddenin Son Yapıtaşları",
     "author":"Gerard T. Hoopt",
-    "imgsrc":"http://static.ideefixe.com/images/83/83275_2.jpg",
+    "imgsrc":"img/maddenin-son-yapitaslari.jpeg",
     "comment":"-",
     "date":"2006",
     "notes":"Notlar",
@@ -3153,7 +3142,7 @@
     {
     "name":"Dünyayi Degistiren 5 Denklem",
     "author":"Michael Guillen",
-    "imgsrc":"http://static.ideefixe.com/images/88/88028_2.jpg",
+    "imgsrc":"img/bes-denklem.jpg",
     "comment":"-",
     "date":"2007",
     "notes":"Notlar",
@@ -3164,7 +3153,7 @@
   {
     "name":"Zamanın Daha Kısa Tarihi",
     "author":"Stephen W. Hawking  ",
-    "imgsrc":"http://static.ideefixe.com/images/253/253796_2.jpg",
+    "imgsrc":"img/zamanin-daha-kisa-tarihi.jpg",
     "comment":"-",
     "date":"2007",
     "notes":"Notlar",
@@ -3186,7 +3175,7 @@
     {
     "name":"Einstein Evreninde Zaman Yolculuğu",
     "author":"J. Richard Gott",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/tr/7/72/Einstein_Evreninde_Zaman_Yolculu%C4%9Fu.jpg",
+    "imgsrc":"img/einstein-paradoksu.jpg",
     "comment":"-",
     "date":"2006",
     "notes":"Notlar",
@@ -3197,7 +3186,7 @@
       {
     "name":"Kuvantumu Anlamak",
     "author":"Barry Parker",
-    "imgsrc":"http://static.ideefixe.com/images/186/186689_2.jpg",
+    "imgsrc":"img/kuvantumu-anlamak.jpg",
     "comment":"-",
     "date":"2006",
     "notes":"Notlar",
@@ -3219,7 +3208,7 @@
   {
     "name":"Karıncalar",
     "author":"Bernard Werber",
-    "imgsrc":"http://kapak.netkitap.com/075bk/K/karincalar_olaganustu_bir_algilama_bicimi_4650.jpg",
+    "imgsrc":"img/karincalar.jpg",
     "comment":"-",
     "date":"2006",
     "notes":"-",
@@ -3230,7 +3219,7 @@
   {
     "name":"Karıncaların Günü",
     "author":"Bernard Werber",
-    "imgsrc":"http://static.ideefixe.com/images/57/57159_2.jpg",
+    "imgsrc":"img/karincalarin-gunu.jpg",
     "comment":"-",
     "date":"2007",
     "notes":"-",
@@ -3241,7 +3230,7 @@
   {
     "name":"Karıncaların Devrimi",
     "author":"Bernard Werber",
-    "imgsrc":"http://static.ideefixe.com/images/58/58081_2.jpg",
+    "imgsrc":"img/karincalarin-devrimi.jpg",
     "comment":"-",
     "date":"2007",
     "notes":"-",
@@ -3285,7 +3274,7 @@
   {
     "name":"Karakılıç Serisi (4)",
     "author":"Margaret Weis &amp; Tracy Hickman",
-    "imgsrc":"http://static.ideefixe.com/images/148/148218_2.jpg",
+    "imgsrc":"img/karakilic-serisi.jpg",
     "comment":"-",
     "date":"2006",
     "notes":"Notlar",
@@ -3296,7 +3285,7 @@
   {
     "name":"Karakule Serisi (7)",
     "author":"Stephen King",
-    "imgsrc":"http://static.ideefixe.com/images/193/193010_2.jpg",
+    "imgsrc":"img/karakule-serisi.jpg",
     "comment":"-En süper eserlerinden biri okurken çok yogun bir heyecan yaşıyorsunuz ancak sonunu pek beğendiğimi söyleyemem ama herkesin okuması gereken bir seri",
     "date":"2006",
     "notes":"Notlar",
@@ -3307,7 +3296,7 @@
   {
     "name":"Sakıncalı Piyade",
     "author":"Uğur Mumcu",
-    "imgsrc":"http://static.ideefixe.com/images/44/44772_2.jpg",
+    "imgsrc":"img/sakincali-piyade.jpg",
     "comment":"-Ugur Mumcunun güzel anlatılımdan akıcı bir olaylar dizisi. Ülkenin kurumları arası haberleşmesinin ne kadar kötu oldugunu ve sistemin ne kadar yanlış işlediğini anlatmada güzel bir kaynak",
     "date":"2007",
     "notes":"Notlar",
@@ -3351,7 +3340,7 @@
   {
     "name":"İkili Sarmal",
     "author":"James D. Watson",
-    "imgsrc":"http://static.ideefixe.com/images/27/27506_2.jpg",
+    "imgsrc":"img/ikili-sarmal.jpg",
     "comment":"-DNAnın keşfine kadar giden bir öykü, Clark ve Watsonın balarısına yol gösteren olayları bizzat Watson kendi dilinden anlatıyor",
     "date":"2003",
     "notes":"Notlar",
