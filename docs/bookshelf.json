@@ -1,10 +1,32 @@
 { 
 "books":[
 {
+    "name":"Dil Miti",
+    "author":"Vyvyan Evans",
+    "imgsrc":"img/dil-miti.png",
+    "date":"2022-12-30",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+}, 
+{
+    "name":"Alien Information Theory: Psychedelic Drug Technologies and the Cosmic Game",
+    "author":"Andrew R. Gallimore",
+    "imgsrc":"img/alien-information-theory.jpg",
+    "date":"2022-12-23",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+}, 
+{
     "name":"Uzunharmanlarda bir davetsiz misafir",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/uzunharmanlarda-bir-davetsiz-misafir.png",
-    "date":"2022-11-17",
+    "date":"2022-12-17",
     "comment":"-",
     "notes":"Notlar",
     "display":true,
@@ -150,7 +172,7 @@
     "date":"2022-01-11",
     "comment":"-",
     "notes":"Notlar",
-    "display":false,
+    "display":true,
     "score":3,
     "category": ["türkçe"]
 },
@@ -315,8 +337,8 @@
     "date":"2020-05-23",
     "comment":"-",
     "notes":"Notlar",
-    "display":false,
-    "score":4,
+    "display":true,
+    "score":3,
     "category": ["research"]
 },
 {
@@ -3352,10 +3374,10 @@
     "name":"Tekrar Bağlantı",
     "author":"Eric Pearl",
     "imgsrc":"img/tekrar_baglanti.jpg",
-    "comment":"-Evrensel enerjinin kullanımı ve bu sayede gerçekleşen hikayelerden oluşmuş bir eser",
+    "comment":"",
     "date":"2009-06",
     "notes":"Notlar",
-    "display":false,
+    "display":true,
     "score":3,
     "category": ["türkçe"]
   },
@@ -3363,7 +3385,7 @@
     "name":"Kuantum Dokunuş",
     "author":"Richard Gordon",
     "imgsrc":"http://www.hermeskitap.com/catalog/images/975-8817-19-1450e2f.jpg",
-    "comment":"-Evrensel enerjinin kullanılarak şifa verme teknikleri üzerine ayrıntılı bir kitap. Yöntemleri özellikle çok iyi açıklamakta",
+    "comment":"",
     "date":"2009-09",
     "notes":"Notlar",
     "display":false,
