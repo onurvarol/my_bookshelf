@@ -1,9 +1,31 @@
 { 
 "books":[
 {
+    "name":"Var mısın? - Güçlü Bir Yaşam İçin Öneriler",
+    "author":"Doğan Cüceloğlu",
+    "imgsrc":"img/var-misin.jpg",
+    "date":"2023-01-22",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["türkçe"]
+},
+{
+    "name":"Tüm Yönleriyle Nefret Söylemi",
+    "author":"HDV",
+    "imgsrc":"img/hdv-nefretsoylemi-kilavuz.jpg",
+    "date":"2023-01-01",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research","türkçe"]
+},
+{
     "name":"Medya ve Nefret Söylemi - 2",
-    "author":"",
-    "imgsrc":"img/hdv-nefretsoylemi.jpg",
+    "author":"HDV",
+    "imgsrc":"img/hdv-nefretsoylemi2.jpg",
     "date":"2022-12-31",
     "comment":"-",
     "notes":"Notlar",
