@@ -25,7 +25,7 @@
 {
     "name":"Medya ve Nefret Söylemi - 2",
     "author":"HDV",
-    "imgsrc":"img/hdv-nefretsoylemi2.jpg",
+    "imgsrc":"img/hdv-nefretsoylemi.jpg",
     "date":"2022-12-31",
     "comment":"-",
     "notes":"Notlar",
@@ -2570,7 +2570,7 @@
  {
     "name":"Yaşlandıkça hayat neden çabuk geçer",
     "author":"Douwe Draaiswa",
-    "imgsrc":"http://www.aktuelpsikoloji.com/images/haber/1947.jpg",
+    "imgsrc":"img/yaslandikca-zaman.jpg",
     "comment":"-İnsan beyninin anıların saklanması, yeniden ortaya çıkması ve unutmak üzerine yazılmıs Draaiswanın güzel eseri",
     "date":"2010-08",
     "notes":"Notlar",
@@ -2625,7 +2625,7 @@
    {
     "name":"Rama ile Bulusma",
     "author":"Arthur C. Clarke",
-    "imgsrc":"http://ecx.images-amazon.com/images/I/41A3XG7MN8L.jpg",
+    "imgsrc":"img/rama-bulusma.jpg",
     "comment":"-Arthur Clarke büyüleyici bir eser meydana getirmis bu nedenle okunmasi gereken harika bir eser.",
     "date":"2010-03",
     "notes":"Notlar",
@@ -2702,7 +2702,7 @@
   {
     "name":"Human Brain",
     "author":"John Nolte",
-    "imgsrc":"http://images.barnesandnoble.com/images/8500000/8506187.jpg",
+    "imgsrc":"img/human-brain-nolte.jpg",
     "comment":"-Beynin fizyolojik işlevini oldukça güzel anlatan bir kitap ancak biraz ağır v detaylı anlatımı var. Referans kitabı olarak kullanılması daha uygun.",
     "date":"2009-06",
     "notes":"Notlar",
@@ -2735,7 +2735,7 @@
   {
     "name":"Mind: Introduction to Cognitive Science",
     "author":"Paul Thagard",
-    "imgsrc":"http://books.google.com.tr/books?id=gjcR1U2HT7kC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;sig=ACfU3U0COYta9shOOagPHok6Zrg0-mH0iA",
+    "imgsrc":"img/mind-thagard.jpg",
     "comment":"-Cognetive Science alanında yapılmış temel çalışmaları içeriyor. Google Bookstan ucretsiz şekilde okunabilir.",
     "date":"2009-04",
     "notes":"Notlar",
@@ -3032,7 +3032,7 @@
   {
     "name":"Olasılıksız",
     "author":"Adam Fawer",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/tr/thumb/1/18/Olas%C4%B1l%C4%B1ks%C4%B1z.jpg/180px-Olas%C4%B1l%C4%B1ks%C4%B1z.jpg",
+    "imgsrc":"img/olasiliksiz.jpg",
     "comment":"-İnsan beyni üzerinde yapılan deneyler. Maxwellin cini ve kuantum mekaniğinin harmanlanıp kurgulandığı bir eser",
     "date":"2009-01",
     "notes":"Notlar",
@@ -3087,7 +3087,7 @@
   {
     "name":"Simyacı",
     "author":"Paulo Coelho  ",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Simyac%C4%B1.jpg/180px-Simyac%C4%B1.jpg",
+    "imgsrc":"img/simyaci.jpg",
     "comment":"-Bir gezginin bilgiye ulaşmak üzere yaptığı seyahat ve burada elde etmiş olduğu kazanımlar. Gerçekten çarpıcı bir kitap",
     "date":"2008-06",
     "notes":"Notlar",
@@ -3219,7 +3219,7 @@
   {
     "name":"Einstein Paradoksu ve Diğer Bilimsel Gizemler",
     "author":"Colin Bruce  ",
-    "imgsrc":"http://static.ideefixe.com/images/95/95386_2.jpg",
+    "imgsrc":"img/einstein-paradoks.jpg",
     "comment":"-",
     "date":"2006",
     "notes":"Notlar",
@@ -3384,7 +3384,7 @@
   {
     "name":"Last Lecture",
     "author":"Randy Pausch",
-    "imgsrc":"http://bookstore.web.cmu.edu/StoreImages/106-535569-3.jpg",
+    "imgsrc":"img/last-lecture.jpg",
     "comment":"-Hayallerinin peşini bırakmayan ve bunlara bağlı kalan kanserden hayatını yitiren Carnigie Mellon üniversitesi hocasının son dersi",
     "date":"2009-05",
     "notes":"Notlar",
@@ -3417,7 +3417,7 @@
   {
     "name":"Kuantum Dokunuş",
     "author":"Richard Gordon",
-    "imgsrc":"http://www.hermeskitap.com/catalog/images/975-8817-19-1450e2f.jpg",
+    "imgsrc":"img/kuantum-dokunus.jpg",
     "comment":"",
     "date":"2009-09",
     "notes":"Notlar",
@@ -3427,8 +3427,8 @@
   },
   {
     "name":"C# Network Programming",
-    "author":"Richard Blum  ",
-    "imgsrc":"http://www.coverbrowser.com/image/programming-books/381-3.jpg",
+    "author":"Richard Blum",
+    "imgsrc":"img/network-programming.jpg",
     "comment":"-Soket Programlama hakkında oldukça faydalı ve güzel bir kaynak. SNMP, ICMP, HTTP, SMTP gibi pek çok uygulamaya ve C# kodlarıyla zenginleştirerek yer veriyor",
     "date":"2009-08",
     "notes":"Notlar",
@@ -3439,7 +3439,7 @@
   {
     "name":"Semantic Web",
     "author":"Toby Segaran",
-    "imgsrc":"http://covers.oreilly.com/images/9780596153823/lrg.jpg",
+    "imgsrc":"img/semantik-web.jpg",
     "comment":"-Semantic web hakkında temellerinide açıklayarak anlatan RDF ve SPARQL ile ilgili güzel bilgiler sunan bir kitap. Kullanılan yazılım ortamlarınada yer vermesi güzel bir özellik",
     "date":"2009-09",
     "notes":"Notlar",
