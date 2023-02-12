@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Deccal'in Hatırı",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/deccalin-hatiri.jpg",
+    "date":"2023-02-12",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Var mısın? - Güçlü Bir Yaşam İçin Öneriler",
     "author":"Doğan Cüceloğlu",
     "imgsrc":"img/var-misin.jpg",
