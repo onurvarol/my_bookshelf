@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Deli Kadın Hikayeleri",
+    "author":"Mine Söğüt",
+    "imgsrc":"img/deli-kadin-hikayeleri.jpg",
+    "date":"2023-02-17",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Sociology - A brief but critical introduction",
     "author":"Anthony Giddens",
     "imgsrc":"img/giddens-sociology.jpg",
