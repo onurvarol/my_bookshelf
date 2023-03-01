@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Ya Adalet Ya Sefalet",
+    "author":"Selçuk Şirin",
+    "imgsrc":"img/ya-adalet-ya-sefalet.jpg",
+    "date":"2023-03-01",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research", "türkçe"]
+}, 
+{
     "name":"Deli Kadın Hikayeleri",
     "author":"Mine Söğüt",
     "imgsrc":"img/deli-kadin-hikayeleri.jpg",
