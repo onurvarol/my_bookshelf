@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Ölümden Uzak Bir Yer",
+    "author":"Kerem Eksen",
+    "imgsrc":"img/olumden-uzak-bir-yer.jpg",
+    "date":"2023-03-08",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
+    "name":"Anadolu Mitolojisi",
+    "author":"Tarık Zafer",
+    "imgsrc":"img/anadolu-mitolojisi.jpg",
+    "date":"2023-03-06",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research", "türkçe"]
+}, 
+{
     "name":"Ya Adalet Ya Sefalet",
     "author":"Selçuk Şirin",
     "imgsrc":"img/ya-adalet-ya-sefalet.jpg",
