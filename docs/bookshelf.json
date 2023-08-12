@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Kısas - Sevinç Kuşları 2",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/kisas.jpg",
+    "date":"2023-08-11",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["türkçe","novel"]
+},
+{
     "name":"Deep Work: Rules for Focused Success in a Distracted World",
     "author":"Cal Newport",
     "imgsrc":"img/deep-work.jpg",
