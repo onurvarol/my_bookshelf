@@ -1,6 +1,39 @@
 { 
 "books":[
 {
+    "name":"Deep Work: Rules for Focused Success in a Distracted World",
+    "author":"Cal Newport",
+    "imgsrc":"img/deep-work.jpg",
+    "date":"2023-07-12",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
+    "name":"Tiamat",
+    "author":"İhsan Oktay Anar",
+    "imgsrc":"img/tiamat.jpg",
+    "date":"2023-06-30",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Denemeler",
+    "author":"Albert Camus",
+    "imgsrc":"img/camus-denemeler.jpg",
+    "date":"2023-04-03",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Nereye gitti Istanbul?",
     "author":"Aydin Boysan",
     "imgsrc":"img/nereye-gitti-istanbul.jpg",
