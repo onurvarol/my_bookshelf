@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Daha adil bir dünya mümkün",
+    "author":"Recep Tayyip Erdoğan",
+    "imgsrc":"img/adil-bir-dunya.jpg",
+    "date":"2023-10-22",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research", "türkçe"]
+},
+{
     "name":"The Hard Thing About Hard Things",
     "author":"Ben Horowitz",
     "imgsrc":"img/the-hard-thing-about-hard-things.jpg",
@@ -43,6 +54,17 @@
     "display":true,
     "score":5,
     "category": ["türkçe","novel"]
+},
+{
+    "name":"Türkiye siyasetinin sınıfları",
+    "author":"Kolleksiyon",
+    "imgsrc":"img/turkiye-siyasetinin-sinirlari.jpg",
+    "date":"2023-08-10",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["türkçe","research"]
 },
 {
     "name":"Deep Work: Rules for Focused Success in a Distracted World",
