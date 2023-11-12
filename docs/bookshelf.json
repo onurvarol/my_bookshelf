@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Surviving the Death of a Sibling",
+    "author":"T. J. Wray",
+    "imgsrc":"img/sibling.jpg",
+    "date":"2023-11-12",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":false,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"NeuroTribes",
     "author":"Steve Silberman",
     "imgsrc":"img/neurotribes.jpg",
