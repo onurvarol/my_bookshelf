@@ -1,13 +1,24 @@
 { 
 "books":[
 {
+    "name":"Uyku Krallığı",
+    "author":"Kerem Eksen",
+    "imgsrc":"img/uyku-kralligi.jpg",
+    "date":"2023-11-20",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Surviving the Death of a Sibling",
     "author":"T. J. Wray",
     "imgsrc":"img/sibling.jpg",
     "date":"2023-11-12",
     "comment":"-",
     "notes":"Notlar",
-    "display":false,
+    "display":true,
     "score":5,
     "category": ["research"]
 },
