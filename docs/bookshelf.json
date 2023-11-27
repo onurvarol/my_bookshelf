@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Beyaz Zambaklar Ülkesinde",
+    "author":"Grigori Petrov",
+    "imgsrc":"img/beyaz-zambaklar-ulkesinde.jpg",
+    "date":"2023-11-27",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["türkçe"]
+},
+{
     "name":"Kayıp Ağaçlar Adası",
     "author":"Elif Şafak",
     "imgsrc":"img/kayip-agaclar-adasi.jpg",
