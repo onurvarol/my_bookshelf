@@ -1,6 +1,16 @@
 { 
 "books":[
-    
+{
+    "name":"The cortex and the critical point",
+    "author":"John M. Beggs",
+    "imgsrc":"img/cortex-critical.jpg",
+    "date":"2024-02-04",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},    
 {
     "name":"Sahada: Cumhuriyetin Harcında Bilim ve Kadınlar",
     "author":"Müsemma Sabancıoğlu",
