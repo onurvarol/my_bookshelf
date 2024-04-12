@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Üç İstanbul",
+    "author":"Mithat Cemal Kuntay",
+    "imgsrc":"img/uc-istanbul.jpg",
+    "date":"2024-04-12",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel","türkçe"]
+},
+{
     "name":"Enformasyon Savaşından Dezenformasyon Savaşına",
     "author":"Fahrettin Altun",
     "imgsrc":"img/enformasyon-dezenformasyon.jpg",
