@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Taşra Üniversiteleri",
+    "author":"Tuğba Tekerek",
+    "imgsrc":"img/tasra-universiteleri.jpg",
+    "date":"2024-04-30",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research","türkçe"]
+},
+{
     "name":"Eylülde dört yıl",
     "author":"Aslı Perker",
     "imgsrc":"img/eylulde-dort-yil.jpg",
