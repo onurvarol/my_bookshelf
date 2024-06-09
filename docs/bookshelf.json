@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Lucky",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/lucky.jpg",
+    "date":"2024-06-09",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Ateş Canına Yapışsın",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/ates-canina-yapissin.jpg",
