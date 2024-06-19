@@ -1,6 +1,39 @@
 { 
 "books":[
 {
+    "name":"Kırmızı Pazartesi",
+    "author":"Gabriel Garcia Marouez",
+    "imgsrc":"img/kirmizi-pazartesi.jpg",
+    "date":"2024-06-19",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
+    "name":"Komplo Teorilerine Neden İnanırız?",
+    "author":"Sinan Alper &amp; Onurcan Yılmnaz",
+    "imgsrc":"img/komploteorileri.jpg",
+    "date":"2024-06-18",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research", "türkçe"]
+}, 
+{
+    "name":"Düz Dünyacılar",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/duzdunyacilar.jpg",
+    "date":"2024-06-17",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Lucky",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/lucky.jpg",
