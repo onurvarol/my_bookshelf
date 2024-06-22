@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Birinci Tekil Şahıs",
+    "author":"Haruki Murakami",
+    "imgsrc":"img/birinci-tekil-sahis.jpg",
+    "date":"2024-06-23",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Vahdettin",
     "author":"Falih Rıfkı Atay",
     "imgsrc":"img/vahdettin.jpg",
