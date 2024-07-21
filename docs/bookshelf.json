@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"New York Üçlemesi",
+    "author":"Paul Auster",
+    "imgsrc":"img/newyork-uclemesi.jpg",
+    "date":"2024-07-22",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Miyasenin Kuzuları",
     "author":"Üstün Dökmen",
     "imgsrc":"img/miyasenin-kuzulari.jpg",
