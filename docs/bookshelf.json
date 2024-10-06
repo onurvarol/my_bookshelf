@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Geber Anne",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/geber-anne.jpg",
+    "date":"2024-10-06",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"New York Üçlemesi",
     "author":"Paul Auster",
     "imgsrc":"img/newyork-uclemesi.jpg",
