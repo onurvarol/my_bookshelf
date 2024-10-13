@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Kaptanın Teknesi",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/kaptanin-teknesi.jpg",
+    "date":"2024-10-13",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Geber Anne",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/geber-anne.jpg",
