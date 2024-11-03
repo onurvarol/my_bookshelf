@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Gizliajans",
+    "author":"Alper Canıgüz",
+    "imgsrc":"img/gizliajans.jpg",
+    "date":"2024-11-03",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+}, 
+{
+    "name":"Kürk Mantolu Madonna",
+    "author":"Sabahattin Ali",
+    "imgsrc":"img/kurk-mantolu-madonna.jpg",
+    "date":"2024-10-21",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Kaptanın Teknesi",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/kaptanin-teknesi.jpg",
