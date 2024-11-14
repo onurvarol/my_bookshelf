@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Merdiven Altı Terapi",
+    "author":"Deniz Dülgeroğlu",
+    "imgsrc":"img/merdiven-alti-terapi.jpg",
+    "date":"2024-11-15",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+}, 
+{
     "name":"Gizliajans",
     "author":"Alper Canıgüz",
     "imgsrc":"img/gizliajans.jpg",
