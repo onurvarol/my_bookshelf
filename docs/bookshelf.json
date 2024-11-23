@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Ölmeden Önce Mümkünse Yaşamanız Gereken 1 Hayat",
+    "author":"Cem Mumcu",
+    "imgsrc":"img/bir-hayat.jpg",
+    "date":"2024-11-23",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Son 1 Saat",
+    "author":"Üstün Dökmen",
+    "imgsrc":"img/son-bir-saat.jpg",
+    "date":"2024-11-16",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Merdiven Altı Terapi",
     "author":"Deniz Dülgeroğlu",
     "imgsrc":"img/merdiven-alti-terapi.jpg",
