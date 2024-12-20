@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Simulacron-3",
+    "author":"Daniel F. Galouye",
+    "imgsrc":"img/simulakron-3.jpg",
+    "date":"2024-12-20",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Transformer",
     "author":"Nick Lane",
     "imgsrc":"img/transformer.jpg",
