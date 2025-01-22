@@ -1,6 +1,39 @@
 { 
 "books":[
 {
+    "name":"Tuhaf Kütüphane",
+    "author":"Haruki Murakami",
+    "imgsrc":"img/tuhaf-kutuphane.jpg",
+    "date":"2025-01-22",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Vejetaryen",
+    "author":"Han Kang",
+    "imgsrc":"img/vejetaryen.png",
+    "date":"2025-01-22",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Benyusuf",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/benyusuf.png",
+    "date":"2025-01-04",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Kerkenez",
     "author":"Barry Hines",
     "imgsrc":"img/kerkenez.jpg",
