@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Çok Güzelsin Gitme Dur",
+    "author":"Haldun Taner",
+    "imgsrc":"img/cok-guzelsin-gitme-dur.jpg",
+    "date":"2025-02-02",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Medet",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/medet.jpg",
+    "date":"2025-01-30",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Tuhaf Kütüphane",
     "author":"Haruki Murakami",
     "imgsrc":"img/tuhaf-kutuphane.jpg",
