@@ -1,6 +1,39 @@
 { 
 "books":[
 {
+    "name":"Range",
+    "author":"David Epstein",
+    "imgsrc":"img/range.jpg",
+    "date":"2025-02-23",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
+    "name":"Farfara",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/farfara.jpg",
+    "date":"2025-02-20",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Kavgam",
+    "author":"Adolf Hitler",
+    "imgsrc":"img/kavgam.jpg",
+    "date":"2025-02-10",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["research", "türkçe"]
+},
+{
     "name":"Çok Güzelsin Gitme Dur",
     "author":"Haldun Taner",
     "imgsrc":"img/cok-guzelsin-gitme-dur.jpg",
