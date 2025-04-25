@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Ölümün İzinde",
+    "author":"Şafak Nakajima",
+    "imgsrc":"img/olumun-izinde.jpg",
+    "date":"2025-04-25",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research", "türkçe"]
+},
+{
     "name":"Yaşamak",
     "author":"Yu Hua",
     "imgsrc":"img/yasamak.jpg",
