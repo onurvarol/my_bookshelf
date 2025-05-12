@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Bende Kalmasın",
+    "author":"Gülten Dayıoğlu",
+    "imgsrc":"img/bende-kalmasin.jpg",
+    "date":"2025-05-12",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Gece Yarısı Kütüphanesi",
+    "author":"Matt Haig",
+    "imgsrc":"img/gece-yarisi-kutuphanesi.jpg",
+    "date":"2025-05-10",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Tatlı Rüyalar",
     "author":"Alper Canıgüz",
     "imgsrc":"img/tatli-ruyalar.jpg",
