@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Kedi Gezegeni",
+    "author":"Lao She",
+    "imgsrc":"img/kedi-gezegeni.jpg",
+    "date":"2025-06-14",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"İç Dünya Oyunları",
+    "author":"Yeşim Türköz",
+    "imgsrc":"img/ic-dunya-oyunlari.jpg",
+    "date":"2025-06-06",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Bende Kalmasın",
     "author":"Gülten Dayıoğlu",
     "imgsrc":"img/bende-kalmasin.jpg",
