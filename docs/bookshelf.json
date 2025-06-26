@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Mahallemdeki İnsanlar",
+    "author":"Hiromi Kawakami",
+    "imgsrc":"img/mahallemdeki-insanlar.jpg",
+    "date":"2025-06-26",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Mumlar Sonuna Kadar Yanar",
+    "author":"Sandor Marai",
+    "imgsrc":"img/mumlar-sonuna-kadar-yanar.jpg",
+    "date":"2025-06-22",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Kedi Gezegeni",
     "author":"Lao She",
     "imgsrc":"img/kedi-gezegeni.jpg",
