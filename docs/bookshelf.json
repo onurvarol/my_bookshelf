@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"The Idea Factory",
+    "author":"Jon Gertner",
+    "imgsrc":"img/the-idea-factory.jpg",
+    "date":"2025-08-25",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
+    "name":"Hiç Tanımadığım Biri",
+    "author":"Bilge Aygün",
+    "imgsrc":"img/hic-tanimadigim-biri.jpg",
+    "date":"2025-08-17",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Sandık Odası",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/sandik-odasi.jpg",
