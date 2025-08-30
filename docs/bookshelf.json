@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"#HashtagActivism",
+    "author":"Jackson, Bailey and Foucault-Welles",
+    "imgsrc":"img/hashtagactivism.jpg",
+    "date":"2025-08-30",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"The Idea Factory",
     "author":"Jon Gertner",
     "imgsrc":"img/the-idea-factory.jpg",
