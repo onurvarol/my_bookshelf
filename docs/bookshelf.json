@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"deli bey",
+    "author":"Gülten Dayıoğlu",
+    "imgsrc":"img/deli-bey.jpg",
+    "date":"2025-09-08",
+    "comment":"-",
+    "notes":"Notlar",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"#HashtagActivism",
     "author":"Jackson, Bailey and Foucault-Welles",
     "imgsrc":"img/hashtagactivism.jpg",
