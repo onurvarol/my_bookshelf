@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Roadside Picnic",
+    "author":"Arkady and Boris Strugatsky",
+    "imgsrc":"img/roadside-picnic.jpg",
+    "date":"2025-10-03",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
     "name":"Katabasis",
     "author":"R. F. Kuang",
     "imgsrc":"img/katabasis.jpg",
