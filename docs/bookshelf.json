@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Dark Academia: How Universities Die",
+    "author":"Peter Fleming",
+    "imgsrc":"img/dark-academia.jpg",
+    "date":"2025-10-29",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
+    "name":"Twitter and Tear Gas",
+    "author":"Zeynep Tufekci",
+    "imgsrc":"img/twitter-and-tear-gas.jpg",
+    "date":"2025-10-25",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"Roadside Picnic",
     "author":"Arkady and Boris Strugatsky",
     "imgsrc":"img/roadside-picnic.jpg",
