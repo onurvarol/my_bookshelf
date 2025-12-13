@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"A Wrinkle in Time",
+    "author":"Madeleine L'Engle",
+    "imgsrc":"img/a-wrinkle-in-time.jpg",
+    "date":"2025-12-13",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
+    "name":"We",
+    "author":"Yevgeny Zamyatin",
+    "imgsrc":"img/we.jpg",
+    "date":"2025-12-03",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
     "name":"Dark Academia: How Universities Die",
     "author":"Peter Fleming",
     "imgsrc":"img/dark-academia.jpg",
