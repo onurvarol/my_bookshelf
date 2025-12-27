@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Situational Awareness: The Decade Ahead",
+    "author":"Leopold Aschenbrenner",
+    "imgsrc":"img/situational-awareness.jpg",
+    "date":"2025-12-27",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"A Wind in the Door",
     "author":"Madeleine L'Engle",
     "imgsrc":"img/a-wind-in-the-door.jpg",
