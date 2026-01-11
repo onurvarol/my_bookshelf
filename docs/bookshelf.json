@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"100 Dublede Cumhuriyet Tarihi",
+    "author":"Hakan Kaynar",
+    "imgsrc":"img/100-dublede-cumhuriyet-tarihi.png",
+    "date":"2026-01-12",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
+    "name":"A Therapeutic Journey",
+    "author":"Alain de Botton",
+    "imgsrc":"img/therapeutic-journey.jpg",
+    "date":"2026-01-06",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
     "name":"Situational Awareness: The Decade Ahead",
     "author":"Leopold Aschenbrenner",
     "imgsrc":"img/situational-awareness.jpg",
