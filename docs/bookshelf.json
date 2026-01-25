@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Örümcek Burgacı",
+    "author":"Alper Canıgüz",
+    "imgsrc":"img/orumcek-burgaci.jpg",
+    "date":"2026-01-24",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel","türkçe"]
+},
+{
+    "name":"Sarı Yüz",
+    "author":"R. F. Kuang",
+    "imgsrc":"img/sari-yuz.jpg",
+    "date":"2026-01-22",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel","türkçe"]
+},
+{
     "name":"100 Dublede Cumhuriyet Tarihi",
     "author":"Hakan Kaynar",
     "imgsrc":"img/100-dublede-cumhuriyet-tarihi.png",
@@ -9,7 +31,7 @@
     "notes":"",
     "display":true,
     "score":5,
-    "category": ["research"]
+    "category": ["research","türkçe"]
 },
 {
     "name":"A Therapeutic Journey",
