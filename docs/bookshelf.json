@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Burası çok önemli",
+    "author":"Berat Albayrak",
+    "imgsrc":"img/burasi-cok-onemli.jpg",
+    "date":"2026-02-02",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["research","türkçe"]
+},
+{
     "name":"<a href='https://possessedmachines.com/' target='_blank'>🔗 The Possessed Machines</a>",
     "author":"Anonymous",
     "imgsrc":"img/the-possessed-machines.png",
