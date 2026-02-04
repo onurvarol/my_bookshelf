@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Akra'da Bulunan Elyazması",
+    "author":"Paulo Coelho",
+    "imgsrc":"img/akrada-bulunan-elyazmasi.jpg",
+    "date":"2026-02-04",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["novel","türkçe"]
+},
+{
     "name":"Burası çok önemli",
     "author":"Berat Albayrak",
     "imgsrc":"img/burasi-cok-onemli.jpg",
