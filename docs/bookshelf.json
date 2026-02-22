@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Suskunlar",
+    "author":"İhsan Oktay Anar",
+    "imgsrc":"img/suskunlar.jpg",
+    "date":"2026-02-23",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel","türkçe"]
+},
+{
     "name":"Minta 𓆉",
     "author":"Solmaz Kamuran",
     "imgsrc":"img/minta.jpg",
