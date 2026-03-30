@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Azdahak",
+    "author":"İskender Pala",
+    "imgsrc":"img/azdahak.jpg",
+    "date":"2026-03-30",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["türkçe"]
+},
+{
+    "name":"Kur'an-ı Kerim Meali",
+    "author":"Elmalılı M. Hamdi Yazır",
+    "imgsrc":"img/kurani-kerim-meali.jpg",
+    "date":"2026-03-17",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["türkçe"]
+},
+{
     "name":"Suskunlar",
     "author":"İhsan Oktay Anar",
     "imgsrc":"img/suskunlar.jpg",
