@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"There is no antimemetics division",
+    "author":"qntm",
+    "imgsrc":"img/there-is-no-antimemetics-division.jpg",
+    "date":"2026-04-18",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
+    "name":"Trump: The Art of the Deal",
+    "author":"Donald Trump",
+    "imgsrc":"img/trump.jpg",
+    "date":"2026-04-06",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["novel"]
+},
+{
     "name":"Azdahak",
     "author":"İskender Pala",
     "imgsrc":"img/azdahak.jpg",
