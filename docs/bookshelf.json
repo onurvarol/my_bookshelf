@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Feline Philosophy",
+    "author":"John Gray",
+    "imgsrc":"img/feline-philosophy.jpg",
+    "date":"2026-04-30",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["novel"]
+},
+{
     "name":"There is no antimemetics division",
     "author":"qntm",
     "imgsrc":"img/there-is-no-antimemetics-division.jpg",
