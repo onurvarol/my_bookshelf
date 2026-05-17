@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Zindankale",
+    "author":"Sezgin Kaymaz",
+    "imgsrc":"img/zindankale.png",
+    "date":"2026-05-18",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"Milli İstihbarat Teşkilatı: 1826-2023",
+    "author":"Polat Safi",
+    "imgsrc":"img/mit.jpg",
+    "date":"2026-05-10",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["research", "türkçe"]
+},
+{
     "name":"Feline Philosophy",
     "author":"John Gray",
     "imgsrc":"img/feline-philosophy.jpg",
