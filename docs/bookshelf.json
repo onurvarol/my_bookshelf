@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Bozkırkurdu",
+    "author":"Hermann Hesse",
+    "imgsrc":"img/bozkirkurdu.jpg",
+    "date":"2026-06-16",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["novel", "türkçe"]
+},
+{
+    "name":"<a href='https://ai-2027.com/' target='_blank'>🔗 AI 2027</a>",
+    "author":"Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland, Romeo Dean",
+    "imgsrc":"img/the-possessed-machines.png",
+    "date":"2026-05-22",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
     "name":"Zindankale",
     "author":"Sezgin Kaymaz",
     "imgsrc":"img/zindankale.png",
