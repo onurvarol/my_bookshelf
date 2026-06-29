@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Ra",
+    "author":"qntm",
+    "imgsrc":"img/ra.jpg",
+    "date":"2026-06-28",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
+    "name":"Dış Politikada Hesaplaşmak",
+    "author":"Ali Balcı",
+    "imgsrc":"img/dis-politikada-hesaplasmak.jpg",
+    "date":"2026-06-20",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["research", "türkçe"]
+},
+{
     "name":"Bozkırkurdu",
     "author":"Hermann Hesse",
     "imgsrc":"img/bozkirkurdu.jpg",
