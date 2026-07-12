@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Ed",
+    "author":"qntm",
+    "imgsrc":"img/ed.jpg",
+    "date":"2026-07-12",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Internet and Democracy in the Network Society",
     "author":"Jan van Dijk and Kenneth L. Hacker",
     "imgsrc":"img/network-society.jpg",
