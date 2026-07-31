@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"İstanbul Anıları",
+    "author":"Hagop Mintzuri",
+    "imgsrc":"img/istanbul-anilari.jpg",
+    "date":"2026-07-30",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
+    "name":"Pamuk Ülkelerine Yolculuk",
+    "author":"Erik Orsenna",
+    "imgsrc":"img/pamuk-ulkelerine-yolculuk.jpg",
+    "date":"2026-07-19",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel"]
+},
+{
     "name":"Ed",
     "author":"qntm",
     "imgsrc":"img/ed.jpg",
