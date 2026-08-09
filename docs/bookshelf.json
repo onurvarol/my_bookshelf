@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Aylak adam",
+    "author":"Yusuf Atılgan",
+    "imgsrc":"img/aylak-adam.jpg",
+    "date":"2026-08-09",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["novel","türkçe"]
+},
+{
+    "name":"Anayurt Oteli",
+    "author":"Yusuf Atılgan",
+    "imgsrc":"img/anayurt-oteli.jpg",
+    "date":"2026-08-01",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["novel","türkçe"]
+},
+{
     "name":"İstanbul Anıları",
     "author":"Hagop Mintzuri",
     "imgsrc":"img/istanbul-anilari.jpg",
