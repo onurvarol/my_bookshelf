@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Active Inference",
+    "author":"Giovanni Pezzulo, Karl J. Friston, Thomas Parr",
+    "imgsrc":"img/active-inference.jpg",
+    "date":"2026-08-18",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["research"]
+},
+{
+    "name":"Fine Structure",
+    "author":"qntm",
+    "imgsrc":"img/fine-structure.jpg",
+    "date":"2026-08-16",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["novel"]
+},
+{
     "name":"Aylak adam",
     "author":"Yusuf Atılgan",
     "imgsrc":"img/aylak-adam.jpg",
