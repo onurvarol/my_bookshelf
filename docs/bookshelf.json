@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"Brainscapes",
+    "author":"Rebecca Schwarzlose",
+    "imgsrc":"img/brainscapes.jpg",
+    "date":"2026-09-04",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["research"]
+},
+{
+    "name":"The Scent of Time",
+    "author":"Byung-Chul Han",
+    "imgsrc":"img/scent-of-time.jpg",
+    "date":"2026-08-20",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["novel"]
+},
+{
     "name":"Active Inference",
     "author":"Giovanni Pezzulo, Karl J. Friston, Thomas Parr",
     "imgsrc":"img/active-inference.jpg",
@@ -3164,7 +3186,7 @@
 {
     "name":"Media Control",
     "author":"Noam Chomsky",
-    "imgsrc":"http://images.amazon.com/images/P/1583225366.01.LZZZZZZZ.jpg",
+    "imgsrc":"img/media-control.jpg",
     "date":"2013-05",
     "comment":"- ",
     "notes":"Notlar",
@@ -3208,7 +3230,7 @@
 {
     "name":"Principles of topologicl psychology",
     "author":"Kurt Lewin",
-    "imgsrc":"http://covers.openlibrary.org/b/id/2755800-M.jpg",
+    "imgsrc":"img/principles-of-topologicl-psychology.jpg",
     "date":"2013-02",
     "comment":"- ",
     "notes":"Notlar",
@@ -3219,7 +3241,7 @@
 {
     "name":"A dynamic theory of personality",
     "author":"Kurt Lewin",
-    "imgsrc":"http://covers.openlibrary.org/b/id/6493423-M.jpg",
+    "imgsrc":"img/dynamic-theory-of-personality.jpg",
     "date":"2013-02",
     "comment":"- ",
     "notes":"Notlar",
@@ -3252,7 +3274,7 @@
 {
     "name":"The Noise and The Signal",
     "author":"Nate Silver",
-    "imgsrc":"http://www.washingtonpost.com/blogs/ezra-klein/files/2012/09/51KLaBetObL._SL500_300_.jpg",
+    "imgsrc":"img/signal-and-the-noise.jpg",
     "date":"2012-11",
     "comment":"- I would like to thank YY Ahn for mentioning about FiveThirtyEight and Mike Conover for sharing this magnificant book on twitter.",
     "notes":"Notlar",
@@ -3274,7 +3296,7 @@
 {
     "name":"Klingsor'un Izinde",
     "author":"Jorge Volpi",
-    "imgsrc":"http://static.idefix.com/cache/0/270/135066",
+    "imgsrc":"img/klingsorun-izinde.jpg",
     "date":"2012-10",
     "comment":"-",
     "notes":"Notlar",
@@ -3285,7 +3307,7 @@
 {
     "name":"The Difference",
     "author":"Scott E. Page",
-    "imgsrc":"http://press.princeton.edu/images/k8353.gif",
+    "imgsrc":"img/the-difference.jpg",
     "date":"2012-09",
     "comment":"-",
     "notes":"Notlar",
@@ -3307,7 +3329,7 @@
 {
     "name":"Political Mind",
     "author":"George Lakoff",
-    "imgsrc":"http://bookdesign.files.wordpress.com/2009/04/9780143115687.jpg",
+    "imgsrc":"img/political-mind.jpg",
     "date":"2012-08",
     "comment":"-",
     "notes":"Notlar",
@@ -3439,7 +3461,7 @@
    {
     "name":"Dynamical Processes on Complex Networks",
     "author":"Alain Barrat, Marc Barthélemy, Alessandro Vespignani",
-    "imgsrc":"http://images.betterworldbooks.com/052/Dynamical-Processes-on-Complex-Networks-9780521879507.jpg",
+    "imgsrc":"img/dynamical-processes-on-complex-networks.jpg",
     "date":"2012-01",
     "comment":"-",
     "notes":"Notlar",
@@ -3461,7 +3483,7 @@
  {
     "name":"The Origin of Order",
     "author":"Stuart A. Kauffman",
-    "imgsrc":"http://www.kurzweilai.net/images/originsoforder.jpg",
+    "imgsrc":"img/origin-of-order.jpg",
     "date":"2011-09",
     "comment":"-",
     "notes":"Notlar",
@@ -3483,7 +3505,7 @@
  {
     "name":"Little Prince",
     "author":"Antoine de Saint-Exupéry",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/en/thumb/0/05/Littleprince.JPG/250px-Littleprince.JPG",
+    "imgsrc":"img/little-prince.jpg",
     "date":"2011-09",
     "comment":"-",
     "notes":"Notlar",
@@ -3505,7 +3527,7 @@
  {
     "name":"On Bir Dakika",
     "author":"Paulo Coelho",
-    "imgsrc":"http://www.rehabasogul.com/wp-content/uploads/2009/03/1155039334paulo-coelho-onbir-dakika-195x300.jpg",
+    "imgsrc":"img/onbir-dakika.jpg",
     "date":"2011-09",
     "comment":"-",
     "notes":"Notlar",
@@ -3538,7 +3560,7 @@
  {
     "name":"Beşinci Dağ",
     "author":"Paulo Coelho",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/tr/thumb/6/60/Besinci_dag.jpg/150px-Besinci_dag.jpg",
+    "imgsrc":"img/besinci-dag.jpg",
     "date":"2011-08",
     "comment":"-",
     "notes":"Notlar",
@@ -3549,7 +3571,7 @@
  {
     "name":"Elif",
     "author":"Paulo Coelho",
-    "imgsrc":"http://3.bp.blogspot.com/-L6kRLCw_rxE/TjrSdDdkW3I/AAAAAAAAK3A/uSx8N8jWC6A/s320/elif%252C+paulo+coelho.jpg",
+    "imgsrc":"img/elif.jpg",
     "date":"2011-08",
     "comment":"-Bu kitap hakkında yazılmış güzel bir yorum için http://nurmustafaoglu.blogspot.com/2011/08/elif.html",
     "notes":"Notlar",
@@ -3582,7 +3604,7 @@
    {
     "name":"Modern Control Engineering",
     "author":"Katsuhiko Ogata",
-    "imgsrc":"http://covers.openlibrary.org/b/id/83774-L.jpg",
+    "imgsrc":"img/modern-control-engineering.jpg",
     "date":"2011-08",
     "comment":"-",
     "notes":"Notlar",
@@ -3637,7 +3659,7 @@
  {
     "name":"Sineklerin Tanrısı",
     "author":"William Golding",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/tr/3/3a/Sineklerintanrisi.jpg",
+    "imgsrc":"img/sineklerin-tanrisi.jpg",
     "comment":"-",
     "date":"2011-06",
     "notes":"Notlar",
@@ -3747,7 +3769,7 @@
  {
     "name":"Babil’de Ölüm İstanbul’da Aşk",
     "author":"İskender Pala",
-    "imgsrc":"http://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Babilde-Olum-Istanbulda-Ask.jpg/100px-Babilde-Olum-Istanbulda-Ask.jpg",
+    "imgsrc":"img/babilde-olum-istanbulda-ask.jpg",
     "comment":"-",
     "date":"2010-11",
     "notes":"Notlar",
