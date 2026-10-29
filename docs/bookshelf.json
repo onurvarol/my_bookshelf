@@ -1,6 +1,28 @@
 { 
 "books":[
 {
+    "name":"The Neural Mind: How Brains Think",
+    "author":"George Lakoff and Srini Narayanan",
+    "imgsrc":"img/the-neural-mind.jpg",
+    "date":"2026-10-29",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":3,
+    "category": ["research"]
+},
+{
+    "name":"Arafat'ta Bir Çocuk",
+    "author":"Zülfü Livaneli",
+    "imgsrc":"img/arafatta-bir-cocuk.jpg",
+    "date":"2026-09-06",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":5,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"Brainscapes",
     "author":"Rebecca Schwarzlose",
     "imgsrc":"img/brainscapes.jpg",
