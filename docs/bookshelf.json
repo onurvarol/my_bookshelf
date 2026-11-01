@@ -1,6 +1,17 @@
 { 
 "books":[
 {
+    "name":"Zeytin Kuşu",
+    "author":"Zeynep Gögüş",
+    "imgsrc":"img/zeytin-kusu.jpg",
+    "date":"2026-10-30",
+    "comment":"-",
+    "notes":"",
+    "display":true,
+    "score":4,
+    "category": ["novel", "türkçe"]
+},
+{
     "name":"The Neural Mind: How Brains Think",
     "author":"George Lakoff and Srini Narayanan",
     "imgsrc":"img/the-neural-mind.jpg",
